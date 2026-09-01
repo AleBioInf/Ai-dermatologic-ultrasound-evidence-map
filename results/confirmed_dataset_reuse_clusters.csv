@@ -1,0 +1,4 @@
+Cluster,Status,Publications,Relationship,Evidence,Implication
+Laverde_Kaggle,Confirmed,Laverde-Saad 2022; da Silva 2026; Ayyildiz 2026,Original cohort + two public-dataset reanalyses,Public Kaggle dermatologic-ultrasound dataset derived from Laverde-Saad,3 publications do not represent 3 independent patient cohorts
+AK_Mendeley,Confirmed,Korecka 2024; Slian 2026,Earlier cohort followed by explicitly expanded dataset,Mendeley repository v3 supports both papers,Later publication expands the lineage rather than providing a fully independent cohort
+Polish_75MHz,Confirmed overlap,Czajkowska 2021 segmentation; Czajkowska 2022 epidermis segmentation; Czajkowska 2021 classification,Shared 380-patient inflammatory HFUS component; later datasets add other images,Public 380-image/380-patient AD+psoriasis Mendeley dataset,Publication/image counts partly reuse the same patient/image source

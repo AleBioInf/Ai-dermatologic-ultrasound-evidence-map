@@ -1,0 +1,14 @@
+Stage,Count,Notes
+PubMed/MEDLINE raw records,324,Final title/abstract query
+Scopus raw records,6412,Final TITLE-ABS-KEY query
+Raw total,6736,Before cross-database deduplication
+Cross-database duplicates removed,213,DOI first; normalized exact title second
+Unique records screened,6523,Title/abstract screening
+Excluded at title/abstract,6486,Prespecified eligibility criteria
+Full-text candidates from database screening,37,29 Include + 8 Unclear at title/abstract stage
+Included after full-text/database audit,32,From the 37 full-text candidates
+Excluded after full-text/database audit,5,From the 37 full-text candidates
+Added by citation chasing,2,Kia 2019; Ayyildiz 2026
+Added after screening-audit correction,1,Zhao et al. 2025 LGL-Net
+Final original-study corpus,35,Whole-field evidence map
+Core clinical subset,23,Disease-oriented diagnostic/staging studies

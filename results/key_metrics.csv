@@ -1,0 +1,15 @@
+Metric,All_studies_n,All_studies_pct,Core_clinical_n,Core_clinical_pct,Operational note
+Total studies,35,100.0%,23,100.0%,Whole field vs disease-oriented core clinical subset
+Strict external clinical validation,1,2.9%,1,4.3%,"Independent clinical cohort from different centre(s), same task"
+Prospective multicentre validation,1,2.9%,1,4.3%,Prospective independent multicentre clinical evaluation
+Multisite data/evaluation,4,11.4%,1,4.3%,Broader than strict external clinical validation
+External image-set test,4,11.4%,3,13.0%,Not necessarily an independent clinical cohort
+Cross-centre/device technical validation,4,11.4%,1,4.3%,Technical transportability; separate from clinical validation
+Public study-specific code/repository,5,14.3%,4,17.4%,Repository identified; completeness assessed separately
+Complete open reproducibility package,0,0.0%,0,0.0%,Code + study-specific model/weights + study-specific evaluation data
+Study-specific full data public,7,20.0%,5,21.7%,Full study analysis dataset openly accessible
+Human comparator,5,14.3%,3,13.0%,Direct expert/manual comparator
+Point-of-care AI workflow,1,2.9%,0,0.0%,Integrated real-time/near-real-time clinical workflow
+Routine clinical deployment,0,0.0%,0,0.0%,Published routine use beyond a research evaluation
+Confirmed dataset-reuse cluster involvement,8,22.9%,6,26.1%,Only directly confirmed reuse clusters
+Known non-independent/overlapping publications,5,14.3%,4,17.4%,Reanalysis or known overlap with another publication

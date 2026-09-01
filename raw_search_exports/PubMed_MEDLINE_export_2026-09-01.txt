@@ -1,0 +1,2083 @@
+1: Khalse R, Khan N, Sharma M, Maru S, Patil P. Basics of skin cancer: Types,
+diagnosis, and current challenges. Adv Cancer Res. 2026;169:39-68. doi:
+10.1016/bs.acr.2026.03.001. Epub 2026 Apr 21. PMID: 42067315.
+
+2: Engin A. Obesity-Associated Breast Cancer: Analysis of Risk Factors and
+Current Clinical Evaluation. Adv Exp Med Biol. 2024;1460:767-819. doi:
+10.1007/978-3-031-63657-8_26. PMID: 39287872.
+
+3: Hu H, Huang H, Li M, Gao X, Yin L, Qi R, Wu RS, Chen X, Ma Y, Shi K, Li C,
+Maus TM, Huang B, Lu C, Lin M, Zhou S, Lou Z, Gu Y, Chen Y, Lei Y, Wang X, Wang
+R, Yue W, Yang X, Bian Y, Mu J, Park G, Xiang S, Cai S, Corey PW, Wang J, Xu S.
+A wearable cardiac ultrasound imager. Nature. 2023 Jan;613(7945):667-675. doi:
+10.1038/s41586-022-05498-z. Epub 2023 Jan 25. PMID: 36697864; PMCID: PMC9876798.
+
+4: Kumar Y, Koul A, Singla R, Ijaz MF. RETRACTED ARTICLE: Artificial
+intelligence in disease diagnosis: a systematic literature review, synthesizing
+framework and future research agenda. J Ambient Intell Humaniz Comput.
+2023;14(7):8459-8486. doi: 10.1007/s12652-021-03612-z. Epub 2022 Jan 13.
+Retraction in: J Ambient Intell Humaniz Comput. 2026;17(3):1081. doi:
+10.1007/s12652-026-05063-w. PMID: 35039756; PMCID: PMC8754556.
+
+5: Wang Z, Jin Y, Zheng Y, Chen H, Feng J, Sun J. Evaluation of preoperative
+difficult airway prediction methods for adult patients without obvious airway
+abnormalities: a systematic review and meta-analysis. BMC Anesthesiol. 2024 Jul
+17;24(1):242. doi: 10.1186/s12871-024-02627-1. PMID: 39020308; PMCID:
+PMC11253413.
+
+6: Bateman RM, Sharpe MD, Jagger JE, Ellis CG, Solé-Violán J, López-Rodríguez M,
+Herrera-Ramos E, Ruíz-Hernández J, Borderías L, Horcajada J, González-Quevedo N,
+Rajas O, Briones M, Rodríguez de Castro F, Rodríguez Gallego C, Esen F, Orhun G,
+Ergin Ozcan P, Senturk E, Ugur Yilmaz C, Orhan N, Arican N, Kaya M, Kucukerden
+M, Giris M, Akcan U, Bilgic Gazioglu S, Tuzun E, Riff R, Naamani O, Douvdevani
+A, Takegawa R, Yoshida H, Hirose T, Yamamoto N, Hagiya H, Ojima M, Akeda Y,
+Tasaki O, Tomono K, Shimazu T, Ono S, Kubo T, Suda S, Ueno T, Ikeda T, Hirose T,
+Ogura H, Takahashi H, Ojima M, Kang J, Nakamura Y, Kojima T, Shimazu T, Ikeda T,
+Suda S, Izutani Y, Ueno T, Ono S, Taniguchi T, O M, Dinter C, Lotz J, Eilers B,
+Wissmann C, Lott R, Meili MM, Schuetz PS, Hawa H, Sharshir M, Aburageila M,
+Salahuddin N, Chantziara V, Georgiou S, Tsimogianni A, Alexandropoulos P, Vassi
+A, Lagiou F, Valta M, Micha G, Chinou E, Michaloudis G, Kodaira A, Ikeda T, Ono
+S, Ueno T, Suda S, Izutani Y, Imaizumi H, De la Torre-Prados MV, Garcia-De la
+Torre A, Enguix-Armada A, Puerto-Morlan A, Perez-Valero V, Garcia-Alcantara A,
+Bolton N, Dudziak J, Bonney S, Tridente A, Nee P, Nicolaes G, Wiewel M, Schultz
+M, Wildhagen K, Horn J, Schrijver R, Van der Poll T, Reutelingsperger C, Pillai
+S, Davies G, Mills G, Aubrey R, Morris K, Williams P, Evans P, Gayat EG, Struck
+J, Cariou A, Deye N, Guidet B, Jabert S, Launay J, Legrand M, Léone M, Resche-
+Rigon M, Vicaut E, Vieillard-Baron A, Mebazaa A, Arnold R, Capan M, Linder A,
+Akesson P, Popescu M, Tomescu D, Sprung CL, Calderon Morales R, Munteanu G,
+Orenbuch-Harroch E, Levin P, Kasdan H, Reiter A, Volker T, Himmel Y, Cohen Y,
+Meissonnier J, Girard L, Rebeaud F, Herrmann I, Delwarde B, Peronnet E, Cerrato
+E, Venet F, Lepape A, Rimmelé T, Monneret G, Textoris J, Beloborodova N, Moroz
+V, Osipov A, Bedova A, Sarshor Y, Pautova A, Sergeev A, Chernevskaya E, Odermatt
+J, Bolliger R, Hersberger L, Ottiger M, Christ-Crain M, Mueller B, Schuetz P,
+Sharma NK, Tashima AK, Brunialti MK, Machado FR, Assuncao M, Rigato O, Salomao
+R, Cajander SC, Rasmussen G, Tina E, Söderquist B, Källman J, Strålin K, Lange
+AL, Sundén-Cullberg JS, Magnuson AM, Hultgren OH, Davies G, Pillai S, Mills G,
+Aubrey R, Morris K, Williams P, Evans P, Pillai S, Davies G, Mills G, Aubrey R,
+Morris K, Williams P, Evans P, Pillai S, Davies G, Mills G, Aubrey R, Morris K,
+Williams P, Evans P, Van der Geest P, Mohseni M, Linssen J, De Jonge R, Duran S,
+Groeneveld J, Miller R III, Lopansri BK, McHugh LC, Seldon A, Burke JP, Johnston
+J, Reece-Anthony R, Bond A, Molokhia A, Mcgrath C, Nsutebu E, Bank Pedersen P,
+Pilsgaard Henriksen D, Mikkelsen S, Touborg Lassen A, Tincu R, Cobilinschi C,
+Tomescu D, Ghiorghiu Z, Macovei R, Wiewel MA, Harmon MB, Van Vught LA, Scicluna
+BP, Hoogendijk AJ, Horn J, Zwinderman AH, Cremer OL, Bonten MJ, Schultz MJ, Van
+der Poll T, Juffermans NP, Wiersinga WJ, Eren G, Tekdos Y, Dogan M, Acicbe O,
+Kaya E, Hergunsel O, Alsolamy S, Ghamdi G, Alswaidan L, Alharbi S, Alenezi F,
+Arabi Y, Heaton J, Boyce A, Nolan L, Johnston J, Dukoff-Gordon A, Dean A,
+Molokhia A, Mann Ben Yehudah T, Fleischmann C, Thomas-Rueddel D, Haas C, Dennler
+U, Reinhart K, Suntornlohanakul O, Khwannimit B, Breckenridge F, Puxty A, Szturz
+P, Folwarzcny P, Svancara J, Kula R, Sevcik P, Caneva L, Casazza A, Bellazzi E,
+Marra S, Pagani L, Vetere M, Vanzino R, Ciprandi D, Preda R, Boschi R, Carnevale
+L, Lopez V, Aguilar Arzapalo M, Barradas L, Escalante A, Gongora J, Cetina M,
+Adamik B, Jakubczyk D, Kübler A, Radford A, Lee T, Singer J, Boyd J, Fineberg D,
+Williams M, Russell J, Scarlatescu E, Tomescu D, Droc G, Arama S, Müller M,
+Straat M, Zeerleder SS, Juffermans NP, Fuchs CF, Scheer CS, Wauschkuhn SW,
+Vollmer MV, Meissner KM, Kuhn SK, Hahnenkamp KH, Rehberg SR, Gründling MG,
+Yamamoto N, Ojima M, Hamaguchi S, Hirose T, Akeda Y, Takegawa R, Tasaki O,
+Shimazu T, Tomono K, Gómez-Sánchez E, Heredia-Rodríguez M, Álvarez-Fuente E,
+Lorenzo-López M, Gómez-Pesquera E, Aragón-Camino M, Liu-Zhu P, Sánchez-López A,
+Hernández-Lozano A, Peláez-Jareño MT, Tamayo E, Thomas-Rüddel DO, Fleischmann C,
+Haas C, Dennler U, Reinhart K, Adora V, Kar A, Chakraborty A, Roy S,
+Bandyopadhyay A, Das M, Mann Ben Yehudah T, BenYehudah G, Salim M, Kumar N,
+Arabi L, Burger T, Lephart P, Toth-martin E, Valencia C, Hammami N, Blot S,
+Vincent JL, Lambert ML, Brunke J, Riemann T, Roschke I, Tincu R, Cobilinschi C,
+Tomescu D, Ghiorghiu Z, Macovei R, Nimitvilai S, Jintanapramote K, Jarupongprapa
+S, Adukauskiene D, Valanciene D, Bose G, Lostarakos V, Carr B, Khedher S, Maaoui
+A, Ezzamouri A, Salem M, Chen J, Cranendonk DR, Van Vught LA, Wiewel MA, Cremer
+OL, Horn J, Bonten MJ, Schultz MJ, Van der Poll T, Wiersinga WJ, Day M, Penrice
+G, Roy K, Robertson P, Godbole G, Jones B, Booth M, Donaldson L, Kawano Y,
+Ishikura H, Al-Dorzi H, Almutairi M, Alhamadi B, Crizaldo Toledo A, Khan R, Al
+Raiy B, Arabi Y, Talaie H, Van Oers JA, Harts A, Nieuwkoop E, Vos P, Boussarsar
+Y, Boutouta F, Kamoun S, Mezghani I, Koubaji S, Ben Souissi A, Riahi A, Mebazaa
+MS, Giamarellos-Bourboulis E, Tziolos N, Routsi C, Katsenos C, Tsangaris I,
+Pneumatikos I, Vlachogiannis G, Theodorou V, Prekates A, Antypa E, Koulouras V,
+Kapravelos N, Gogos C, Antoniadou E, Mandragos K, Armaganidis A, Robles
+Caballero AR, Civantos B, Figueira JC, López J, Silva-Pinto A, Ceia F, Sarmento
+A, Santos L, Almekhlafi G, Sakr Y, Al-Dorzi H, Khan R, Baharoon S, Aldawood A,
+Matroud A, Alchin J, Al Johani S, Balkhy H, Arabi Y, Alsolamy S, Yousif SY,
+Alotabi BO, Alsaawi AS, Ang J, Curran MD, Enoch D, Navapurkar V, Morris A,
+Sharvill R, Astin J, Heredia-Rodríguez M, Gómez-Sánchez E, Peláez-Jareño MT,
+Gómez-Pesquera E, Lorenzo-López M, Liu-Zhu P, Aragón-Camino M, Hernández-Lozano
+A, Sánchez-López A, Álvarez-Fuente E, Tamayo E, Patel J, Kruger C, O’Neal J,
+Rhodes H, Jancik J, François B, Laterre PF, Eggimann P, Torres A, Sánchez M,
+Dequin PF, Bassi GL, Chastre J, Jafri HS, Ben Romdhane M, Douira Z, Kamoun S,
+Bousselmi M, Ben Souissi A, Boussarsar Y, Riahi A, Mebazaa MS, Vakalos A,
+Avramidis V, Craven TH, Wojcik G, Kefala K, McCoubrey J, Reilly J, Paterson R,
+Inverarity D, Laurenson I, Walsh TS, Mongodi S, Bouhemad B, Orlando A, Stella A,
+Via G, Iotti G, Braschi A, Mojoli F, Haliloglu M, Bilgili B, Kasapoglu U, Sayan
+I, Süzer Aslan M, Yalcın A, Cinel I, Vakalos A, Avramidis V, Ellis HE,
+Bauchmuller K, Miller D, Temple A, Chastre J, François B, Torres A, Luyt CE,
+Sánchez M, Singer M, Jafri HS, Nassar Y, Ayad MS, Trifi A, Abdellatif S, Daly F,
+Nasri R, Ben Lakhal S, Bilgili B, Haliloglu M, Gul F, Cinel I, Kuzovlev A,
+Shabanov A, Polovnikov S, Moroz V, Kadrichu N, Dang T, Corkery K, Challoner P,
+Bassi GL, Aguilera E, Chiurazzi C, Travierso C, Motos A, Fernandez L, Amaro R,
+Senussi T, Idone F, Bobi J, Rigol M, Torres A, Hodiamont CJ, Juffermans NP,
+Janssen JM, Bouman CS, Mathôt RA, De Jong MD, Van Hest RM, Payne L, Fraser GL,
+Tudor B, Lahner M, Roth G, Krenn C, Talaie H, Jault P, Gabard J, Leclerc T,
+Jennes S, Que Y, Rousseau A, Ravat F, Al-Dorzi H, Eissa A, Al-Harbi S, Aldabbagh
+T, Khan R, Arabi Y, Trifi A, Abdellatif. S, Daly F, Nasri R, Ben Lakhal S,
+Paramba F, Purayil N, Naushad V, Mohammad O, Negi V, Chandra P, Kleinsasser A,
+Witrz MR, Buchner-Doeven JF, Tuip-de Boer AM, Goslings JC, Juffermans NP, Van
+Hezel M, Straat M, Boing A, Van Bruggen R, Juffermans N, Markopoulou D,
+Venetsanou K, Kaldis V, Koutete D, Chroni D, Alamanos I, Koch L, Jancik J,
+Rhodes H, Walter E, Maekawa K, Hayakawa M, Kushimoto S, Shiraishi A, Kato H,
+Sasaki J, Ogura H, Matauoka T, Uejima T, Morimura N, Ishikura H, Hagiwara A,
+Takeda M, Tarabrin O, Shcherbakow S, Gavrychenko D, Mazurenko G, Ivanova V,
+Chystikov O, Plourde C, Lessard J, Chauny J, Daoust R, Shcherbakow S, Tarabrin
+O, Gavrychenko D, Mazurenko G, Chystikov O, Vakalos A, Avramidis V, Kropman L,
+In het Panhuis L, Konings J, Huskens D, Schurgers E, Roest M, De Laat B, Lance
+M, Durila M, Lukas P, Astraverkhava M, Jonas J, Budnik I, Shenkman B, Hayami H,
+Koide Y, Goto T, Iqbal R, Alhamdi Y, Venugopal N, Abrams S, Downey C, Toh CH,
+Welters ID, Bombay VB, Chauny JM, Daoust RD, Lessard JL, Marquis MM, Paquet JP,
+Siemens K, Sangaran D, Hunt BJ, Durward A, Nyman A, Murdoch IA, Tibby SM,
+Ampatzidou F, Moisidou D, Dalampini E, Nastou M, Vasilarou E, Kalaizi V,
+Chatzikostenoglou H, Drossos G, Spadaro S, Fogagnolo A, Fiore T, Schiavi A,
+Fontana V, Taccone F, Volta C, Chochliourou E, Volakli E, Violaki A, Samkinidou
+E, Evlavis G, Panagiotidou V, Sdougka M, Mothukuri R, Battle C, Guy K, Mills G,
+Evans P, Wijesuriya J, Keogh S, Docherty A, O’Donnell R, Brunskill S, Trivella
+M, Doree C, Holst L, Parker M, Gregersen M, Almeida J, Walsh T, Stanworth S,
+Moravcova S, Mansell J, Rogers A, Smith RA, Hamilton-Davies C, Omar A, Allam M,
+Bilala O, Kindawi A, Ewila H, Ampatzidou F, Moisidou D, Nastou M, Dalampini E,
+Malamas A, Vasilarou E, Drossos G, Ferreira G, Caldas J, Fukushima J, Osawa EA,
+Arita E, Camara L, Zeferino S, Jardim J, Gaioto F, Dallan L, Jatene FB, Kalil
+Filho R, Galas F, Hajjar LA, Mitaka C, Ohnuma T, Murayama T, Kunimoto F,
+Nagashima M, Takei T, Tomita M, Omar A, Mahmoud K, Hanoura S, Sudarsanan S,
+Sivadasan P, Othamn H, Shouman Y, Singh R, Al Khulaifi A, Mandel I, Mikheev S,
+Suhodolo I, Kiselev V, Svirko Y, Podoksenov Y, Jenkins SA, Griffin R, Tovar
+Doncel MS, Lima A, Aldecoa C, Ince C, Taha A, Shafie A, Mostafa M, Syed N, Hon
+H, Righetti F, Colombaroli E, Castellano G, Righetti F, Colombaroli E, Hravnak
+M, Chen LC, Dubrawski AD, Clermont GC, Pinsky MR, Gonzalez S, Macias D, Acosta
+J, Jimenez P, Loza A, Lesmes A, Lucena F, Leon C, Tovar Doncel MS, Ince C,
+Aldecoa C, Lima A, Bastide M, Richecoeur J, Frenoy E, Lemaire C, Sauneuf B,
+Tamion F, Nseir S, Du Cheyron D, Dupont H, Maizel J, Shaban M, Kolko R,
+Salahuddin N, Sharshir M, AbuRageila M, AlHussain A, Mercado P, Maizel J, Kontar
+L, Titeca D, Brazier F, Riviere A, Joris M, Soupison T, De Cagny B, Slama M,
+Wagner J, Körner A, Kubik M, Kluge S, Reuter D, Saugel B, Colombaroli E,
+Righetti F, Castellano G, Tran T, De Bels D, Cudia A, Strachinaru M, Ghottignies
+P, Devriendt J, Pierrakos C, Martínez González Ó, Blancas R, Luján J,
+Ballesteros D, Martínez Díaz C, Núñez A, Martín Parra C, López Matamala B,
+Alonso Fernández M, Chana M, Huber W, Eckmann M, Elkmann F, Gruber A, Klein I,
+Schmid RM, Lahmer T, Moller PW, Sondergaard S, Jakob SM, Takala J, Berger D,
+Bastoni D, Aya H, Toscani L, Pigozzi L, Rhodes A, Cecconi M, Ostrowska C, Aya H,
+Abbas A, Mellinghoff J, Ryan C, Dawson D, Rhodes A, Cecconi M, Cronhjort M, Wall
+O, Nyberg E, Zeng R, Svensen C, Mårtensson J, Joelsson-Alm E, Aguilar Arzapalo
+M, Barradas L, Lopez V, Cetina M, Parenti N, Palazzi C, Amidei LA, Borrelli FB,
+Campanale SC, Tagliazucchi FT, Sedoni GS, Lucchesi DL, Carella EC, Luciani AL,
+Mackovic M, Maric N, Bakula M, Aya H, Rhodes A, Grounds RM, Fletcher N, Cecconi
+M, Avard B, Zhang P, Mezidi M, Charbit J, Ould-Chikh M, Deras P, Maury C,
+Martinez O, Capdevila X, Hou P, Linde-Zwirble WZ, Douglas ID, Shapiro NS, Ben
+Souissi A, Mezghani I, Ben Aicha Y, Kamoun S, Laribi B, Jeribi B, Riahi A,
+Mebazaa MS, Pereira C, Marinho R, Antunes R, Marinho A, Crivits M, Raes M,
+Decruyenaere J, Hoste E, Bagin V, Rudnov V, Savitsky A, Astafyeva M, Korobko I,
+Vein V, Kampmeier T, Arnemann P, Hessler M, Wald A, Bockbreder K, Morelli A, Van
+Aken H, Rehberg S, Ertmer C, Arnemann P, Hessler M, Kampmeier T, Rehberg S, Van
+Aken H, Ince C, Ertmer C, Reddy S, Bailey M, Beasley R, Bellomo R, Mackle D,
+Psirides A, Young P, Reddy S, Bailey M, Beasley R, Bellomo R, Mackle D, Young P,
+Venkatesh H, Ramachandran S, Basu A, Nair H, Egan S, Bates J, Oliveira S, Rangel
+Neto NR, Reis FQ, Lee CP, Lin XL, Choong C, Eu KM, Sim WY, Tee KS, Pau J,
+Abisheganaden J, Maas K, De Geus H, Lafuente E, Marinho R, Moura J, Antunes R,
+Marinho A, Doris TE, Monkhouse D, Shipley T, Kardasz S, Gonzalez I, Stads S,
+Groeneveld AJ, Elsayed I, Ward N, Tridente A, Raithatha A, Steuber A, Pelletier
+C, Schroeder S, Michael E, Slowinski T, Kindgen-Milles D, Ghabina S, Turani F,
+Belli A, Busatti S, Barettin G, Candidi F, Gargano F, Barchetta R, Falco M,
+Demirkiran O, Kosuk M, Bozbay S, Weber V, Hartmann J, Harm S, Linsberger I,
+Eichhorn T, Valicek G, Miestinger G, Hoermann C, Faenza S, Ricci D, Mancini E,
+Gemelli C, Cuoghi A, Magnani S, Atti M, Laddomada T, Doronzio A, Balicco B,
+Gruda MC, O’Sullivan P, Dan VP, Guliashvili T, Scheirer A, Golobish TD, Capponi
+VJ, Chan PP, Kogelmann K, Drüner M, Jarczak D, Turani F, Belli AB, Martni SM,
+Cotticelli VC, Mounajergi F, Barchetta R, Morimoto S, Ishikura H, Hussain I,
+Salahuddin N, Nadeem A, Ghorab K, Maghrabi K, Kloesel SK, Goldfuss C, Stieglitz
+A, Stieglitz AS, Krstevska L, Albuszies G, Aguilar Arzapalo M, Barradas L, Lopez
+V, Escalante A, Jimmy G, Cetina M, Izawa J, Iwami T, Uchino S, Takinami M,
+Kitamura T, Kawamura T, Powell-Tuck JG, Crichton S, Raimundo M, Camporota L,
+Wyncoll D, Ostermann M, Hana A, De Geus HR, De Geus HR, Hana A, Aydogdu M,
+Boyaci N, Yuksel S, Gursel G, Cayci Sivri AB, Meza-Márquez J, Nava-López J,
+Carrillo-Esper R, Dardashti A, Grubb A, Maizel J, Wetzstein M, Titeca D, Kontar
+L, Brazier F, De Cagny B, Riviere A, Soupison T, Joris M, Slama M, Peters E,
+Njimi H, Pickkers P, Vincent JL, Waraich M, Doyle J, Samuels T, Forni L, Desai
+N, Baumber R, Gunning P, Sell A, Lin S, Torrence H, O’Dwyer M, Kirwan C, Prowle
+J, Kim T, O’Connor ME, Hewson RW, Kirwan CJ, Pearse RM, Prowle J, Hanoura S,
+Omar A, Othamn H, Sudarsanan S, Allam M, Maksoud M, Singh R, Al Khulaifi A,
+O’Connor ME, Hewson RW, Kirwan CJ, Pearse RM, Prowle J, Uzundere O, Memis D,
+Ýnal M, Gultekin A, Turan N, Aydin MA, Basar H, Sencan I, Kapuagasi A, Ozturk M,
+Uzundurukan Z, Gokmen D, Ozcan A, Kaymak C, Artemenko VA, Budnyuk A, Pugh R,
+Bhandari S, Mauri T, Turrini C, Langer T, Taccone P, Volta CA, Marenghi C,
+Gattinoni L, Pesenti A, Sweeney L, O’Sullivan A, Kelly P, Mukeria E, MacLoughlin
+R, Pfeffer M, Thomas JT, Bregman GB, Karp GK, Kishinevsky EK, Stavi DS, Adi NA,
+Poropat T, Knafelj R, Llopart E, Batlle M, De Haro C, Mesquida J, Artigas A,
+Pavlovic D, Lewerentz L, Spassov A, Schneider R, De Smet S, De Raedt S, Derom E,
+Depuydt P, Oeyen S, Benoit D, Decruyenaere J, Gobatto A, Besen B, Tierno P,
+Melro L, Mendes P, Cadamuro F, Park M, Malbouisson LM, Civantos BC, Lopez JL,
+Robles A, Figueira J, Yus S, Garcia A, Oglinda A, Ciobanu G, Oglinda C, Schirca
+L, Sertinean T, Lupu V, Kelly P, O’Sullivan A, Sweeney L, MacLoughlin R,
+O’Sullivan A, Kelly P, Sweeney L, Mukeria E, Wolny M, MacLoughlin R, Pagano A,
+Numis F, Visone G, Saldamarco L, Russo T, Porta G, Paladino F, Bell C, Liu J,
+Debacker J, Lee C, Tamberg E, Campbell V, Mehta S, Silva-Pinto A, Sarmento A,
+Santos L, Kara Ý, Yýldýrým F, Zerman A, Güllü Z, Boyacý N, Basarýk Aydogan B,
+Gaygýsýz Ü, Gönderen K, Arýk G, Turkoglu M, Aydogdu M, Aygencel G, Ülger Z,
+Gursel G, Boyacý N, Isýkdogan Z, Özdedeoglu Ö, Güllü Z, Badoglu M, Gaygýsýz U,
+Aydogdu M, Gursel G, Kongpolprom N, Sittipunt C, Eden A, Kokhanovsky Y,
+Bursztein – De Myttenaere S, Pizov R, Neilans L, MacIntyre N, Radosevich M,
+Wanta B, Weber V, Meyer T, Smischney N, Brown D, Diedrich D, Fuller A, McLindon
+P, Sim K, Shoaeir M, Noeam K, Mahrous A, Matsa R, Ali A, Dridi C, Koubaji S,
+Kamoun S, Haddad F, Ben Souissi A, Laribi B, Riahi A, Mebazaa MS, Pérez-
+Calatayud A, Carrillo-Esper R, Zepeda-Mendoza A, Diaz-Carrillo M, Arch-Tirado E,
+Carbognin S, Pelacani L, Zannoni F, Agnoli A, Gagliardi G, Cho R, Adams A, Lunos
+S, Ambur S, Shapiro R, Prekker M, Thijssen M, Janssen L, Foudraine N,
+Voscopoulos CJ, Freeman J, Voscopoulos CJ, Freeman J, George E, Voscopoulos CJ,
+Eversole D, Freeman J, George E, Muttini S, Bigi R, Villani G, Patroniti N,
+Williams G, Voscopoulos CJ, Freeman J, George E, Waldmann A, Böhm S, Windisch W,
+Strassmann S, Karagiannidis C, Waldmann A, Böhm S, Windisch W, Strassmann S,
+Karagiannidis C, Karagiannidis CK, Waldmann AW, Böhm SB, Strassmann S, Windisch
+WW, Persson P, Lundin S, Stenqvist O, Porta G, Numis F, Serra CS, Pagano AP,
+Masarone MM, Rinaldi LR, Amelia AA, Fascione MF, Adinolfi LA, Ruggiero ER, Asota
+F, O’Rourke K, Ranjan S, Morgan P, DeBacker JW, Tamberg E, O’Neill L, Munshi L,
+Burry L, Fan E, Mehta S, Poo S, Mahendran K, Fowles J, Gerrard C, Vuylsteke A,
+Loveridge R, Chaddock C, Patel S, Kakar V, Willars C, Hurst T, Park C, Best T,
+Vercueil A, Auzinger G, Borgman A, Proudfoot AG, Grins E, Emiley KE, Schuitema
+J, Fitch SJ, Marco G, Sturgill J, Dickinson MG, Strueber M, Khaghani A, Wilton
+P, Jovinge SM, Sampson C, Harris-Fox S, Cove ME, Vu LH, Sen A, Federspiel WJ,
+Kellum JA, Mazo Torre C, Riera J, Ramirez S, Borgatta B, Lagunes L, Rello J,
+Kuzovlev AK, Moroz V, Goloubev A, Polovnikov S, Nenchuk S, Karavana V, Glynos C,
+Asimakos A, Pappas K, Vrettou C, Magkou M, Ischaki E, Stathopoulos G,
+Zakynthinos S, Spadaro S, Kozhevnikova I, Dalla Corte F, Grasso S, Casolari P,
+Caramori G, Volta C, Andrianjafiarinoa T, Randriamandrato T, Rajaonera T, El-
+Dash S, Costa ELV, Tucci MR, Leleu F, Kontar L, De Cagny B, Brazier F, Titeca D,
+Bacari-Risal G, Maizel J, Amato M, Slama M, Mercado P, Maizel J, Kontar L,
+Titeca D, Brazier F, Riviere A, Joris M, Soupison T, De Cagny B, El Dash S,
+Slama M, Remmington, Fischer A, Squire S, Boichat M, Honzawa H, Yasuda H, Adati
+T, Suzaki S, Horibe M, Sasaki M, Sanui M, Marinho R, Daniel J, Miranda H,
+Marinho A, Milinis K, Cooper M, Williams GR, McCarron E, Simants S, Patanwala I,
+Welters I, Su Y, Fernández Villanueva J, Fernández Garda R, López Lago A,
+Rodríguez Ruíz E, Hernández Vaquero R, Tomé Martínez de Rituerto S, Varo Pérez
+E, Lefel N, Schaap F, Bergmans D, Olde Damink S, Van de Poll M, Tizard K, Lister
+C, Poole L, Ringaitiene D, Gineityte D, Vicka V, Norkiene I, Sipylaite J,
+O’Loughlin A, Maraj V, Dowling J, Velasco MB, Dalcomune DM, Dias EB, Fernandes
+SL, Oshima T, Graf S, Heidegger C, Genton L, Karsegard V, Dupertuis Y, Pichard
+C, Friedli N, Stanga Z, Mueller B, Schuetz P, Vandersteen L, Stessel B, Evers S,
+Van Assche A, Jamaer L, Dubois J, Marinho R, Castro H, Moura J, Valente J,
+Martins P, Casteloes P, Magalhaes C, Cabral S, Santos M, Oliveira B, Salgueiro
+A, Marinho A, Marinho R, Santos M, Lafuente E, Castro H, Cabral S, Moura J,
+Martins P, Oliveira B, Salgueiro A, Duarte S, Castro S, Melo M, Casteloes P,
+Marinho A, Gray S, Maipang K, Bhurayanontachai R, Grädel LG, Schütz P, Langlois
+P, Manzanares W, Tincu R, Cobilinschi C, Tomescu D, Ghiorghiu Z, Macovei R,
+Manzanares W, Langlois P, Lemieux M, Elke G, Bloos F, Reinhart K, Heyland D,
+Langlois P, Lemieux M, Aramendi I, Heyland D, Manzanares W, Su Y, Marinho R,
+Babo N, Marinho A, Hoshino M, Haraguchi Y, Kajiwara S, Mitsuhashi T, Tsubata T,
+Aida M, Rattanapraphat T, Bhurayanontachai R, Kongkamol C, Khwannimit B, Marinho
+R, Santos M, Castro H, Lafuente E, Salgueiro A, Cabral S, Martins P, Moura J,
+Oliveira B, Melo M, Xavier B, Valente J, Magalhaes C, Casteloes P, Marinho A,
+Moisidou D, Ampatzidou F, Koutsogiannidis C, Moschopoulou M, Drossos G, Taskin
+G, Çakir M, Güler AK, Taskin A, Öcal N, Özer S, Yamanel L, Wong JM, Fitton C,
+Anwar S, Stacey S, Aggou M, Fyntanidou B, Patsatzakis S, Oloktsidou E, Lolakos
+K, Papapostolou E, Grosomanidis V, Suda S, Ikeda T, Ono S, Ueno T, Izutani Y,
+Gaudry S, Desailly V, Pasquier P, Brun PB, Tesnieres AT, Ricard JD, Dreyfuss D,
+Mignon A, White JC, Molokhia A, Dean A, Stilwell A, Friedlaender G, Peters M,
+Stipulante S, Delfosse A, Donneau AF, Ghuysen A, Feldmann C, Freitag D, Dersch
+W, Irqsusi M, Eschbach D, Steinfeldt T, Wulf H, Wiesmann T, Kongpolprom N,
+Cholkraisuwat J, Beitland S, Nakstad E, Stær-Jensen H, Drægni T, Andersen G,
+Jacobsen D, Brunborg C, Waldum-Grevbo B, Sunde K, Hoyland K, Pandit D, Hayakawa
+K, Oloktsidou E, Kotzampassi K, Fyntanidou B, Patsatzakis S, Loukipoudi L,
+Doumaki E, Grosomanidis V, Yasuda H, Admiraal MM, Van Assen M, Van Putten MJ,
+Tjepkema-Cloostermans M, Van Rootselaar AF, Horn J, Ragusa F, Marudi A, Baroni
+S, Gaspari A, Bertellini E, Taha A, Abdullah T, Abdel Monem S, Alcorn S, McNeill
+S, Russell S, Eertmans W, Genbrugge C, Meex I, Dens J, Jans F, De Deyne C,
+Cholkraisuwat J, Kongpolprom N, Avard B, Burns R, Patarchi A, Spina T, Tanaka H,
+Otani N, Ode S, Ishimatsu S, Cho J, Moon JB, Park CW, Ohk TG, Shin MC, Won MH,
+Dakova S, Ramsheva Z, Ramshev K, Cho J, Moon JB, Park CW, Ohk TG, Shin MC, Cho
+J, Moon JB, Park CW, Ohk TG, Shin MC, Marudi A, Baroni S, Gaspari A, Bertellini
+E, Orhun G, Senturk E, Ozcan PE, Sencer S, Ulusoy C, Tuzun E, Esen F, Tincu R,
+Cobilinschi C, Tomescu D, Ghiorghiu Z, Macovei R, Van Assen M, Admiraal MM, Van
+Putten MJ, Tjepkema-Cloostermans M, Van Rootselaar AF, Horn J, Fallenius M,
+Skrifvars MB, Reinikainen M, Bendel S, Raj R, Abu-Habsa M, Hymers C, Borowska A,
+Sivadhas H, Sahiba S, Perkins S, Rubio J, Rubio JA, Sierra R, English S, Chasse
+M, Turgeon A, Lauzier F, Griesdale D, Garland A, Fergusson D, Zarychanski R,
+Tinmouth A, Van Walraven C, Montroy K, Ziegler J, Dupont Chouinard R, Carignan
+R, Dhaliwal A, Lum C, Sinclair J, Pagliarello G, McIntyre L, English S, Chasse
+M, Turgeon A, Lauzier F, Griesdale D, Garland A, Fergusson D, Zarychanski R,
+Tinmouth A, Van Walraven C, Montroy K, Ziegler J, Dupont Chouinard R, Carignan
+R, Dhaliwal A, Lum C, Sinclair J, Pagliarello G, McIntyre L, Groza T, Moreau N,
+Castanares-Zapatero D, Hantson P, Carbonara M, Ortolano F, Zoerle T, Magnoni S,
+Pifferi S, Conte V, Stocchetti N, Carteron L, Suys T, Patet C, Quintard H, Oddo
+M, Rubio JA, Rubio J, Sierra R, Spatenkova V, Pokorna E, Suchomel P, Ebert N,
+Jancik J, Rhodes H, Bylinski T, Hawthorne C, Shaw M, Piper I, Kinsella J, Kink
+AK, Rätsep IR, Boutin A, Moore L, Chasse M, Zarychanski R, Lauzier F, English S,
+McIntyre L, Lacroix J, Griesdale D, Lessard-Bonaventure P, Turgeon AF, Boutin A,
+Moore L, Green R, Lessard-Bonaventure P, Erdogan M, Butler M, Lauzier F, Chasse
+M, English S, McIntyre L, Zarychanski R, Lacroix J, Griesdale D, Desjardins P,
+Fergusson DA, Turgeon AF, Goncalves B, Vidal B, Valdez C, Rodrigues AC, Miguez
+L, Moralez G, Hong T, Kutz A, Hausfater P, Amin D, Struja T, Haubitz S, Huber A,
+Mueller B, Schuetz P, Brown T, Collinson J, Pritchett C, Slade T, Le Guen M,
+Hellings S, Ramsaran R, Alsheikhly A, Abe T, Kanapeckaite L, Abu-Habsa M, Bahl
+R, Russell MQ, Real KJ, Abu-Habsa M, Lyon RM, Oveland NP, Penketh J, Mcdonald M,
+Kelly F, Alfafi M, Alsolamy S, Almutairi W, Alotaibi B, Van den Berg AE, Schriel
+Y, Dawson L, Meynaar IA, Talaie H, Silva D, Fernandes S, Gouveia J, Santos Silva
+J, Foley J, Kaskovagheorgescu A, Evoy D, Cronin J, Ryan J, Huck M, Hoffmann C,
+Renner J, Laitselart P, Donat N, Cirodde A, Schaal JV, Masson Y, Nau A, Leclerc
+T, Howarth O, Davenport K, Jeanrenaud P, Raftery S, MacTavish P, Devine H,
+McPeake J, Daniel M, Kinsella J, Quasim T, Alrabiee S, Alrashid A, Alsolamy S,
+Gundogan O, Bor C, Akýn Korhan E, Demirag K, Uyar M, Frame F, Ashton C,
+Bergstrom Niska L, Dilokpattanamongkol P, Suansanae T, Suthisisang C, Morakul S,
+Karnjanarachata C, Tangsujaritvijit V, Mahmood S, Al Thani H, Almenyar A,
+Vakalos A, Avramidis V, Sharvill R, Penketh J, Morton SE, Chiew YS, Pretty C,
+Chase JG, Shaw GM, Knafelj R, Kordis P, Patel S, Grover V, Kuchyn I, Bielka K,
+Aidoni Z, Grosomanidis V, Kotzampassi K, Stavrou G, Fyntanidou B, Patsatzakis S,
+Skourtis C, Lee SD, Williams K, Weltes ID, Berhane S, Arrowsmith C, Peters C,
+Robert S, Caldas J, Panerai RB, Robinson TG, Camara L, Ferreira G, Borg-Seng-Shu
+E, De Lima Oliveira M, Mian NC, Santos L, Nogueira R, Zeferino SP, Jacobsen
+Teixeira M, Galas F, Hajjar LA, Killeen P, McPhail M, Bernal W, Maggs J, Wendon
+J, Hughes T, Taniguchi LU, Siqueira EM, Vieira Jr JM, Azevedo LC, Ahmad AN, Abu-
+Habsa M, Bahl R, Helme E, Hadfield S, Loveridge R, Shak J, Senver C, Howard-
+Griffin R, Wacharasint P, Fuengfoo P, Sukcharoen N, Rangsin R, Sbiti-Rohr D,
+Schuetz P, Na H, Song S, Lee S, Jeong E, Lee K, Cooper M, Milinis K, Williams G,
+McCarron E, Simants S, Patanwala I, Welters ID, Zoumpelouli E, Volakli EA,
+Chrysohoidou V, Georgiou S, Charisopoulou K, Kotzapanagiotou E, Panagiotidou V,
+Manavidou K, Stathi Z, Sdougka M, Salahuddin N, AlGhamdi B, Marashly Q, Zaza K,
+Sharshir M, Khurshid M, Ali Z, Malgapo M, Jamil M, Shafquat A, Shoukri M, Hijazi
+M, Abe T, Uchino S, Takinami M, Rangel Neto NR, Oliveira S, Reis FQ, Rocha FA,
+Moralez G, Ebecken K, Rabello LS, Lima MF, Hatum R, De Marco FV, Alves A, Pinto
+JE, Godoy M, Brasil PE, Bozza FA, Salluh JI, Soares M, Krinsley J, Kang G, Perry
+J, Hines H, Wilkinson KM, Tordoff C, Sloan B, Bellamy MC, Moreira E, Verga F,
+Barbato M, Burghi G, Soares M, Silva UV, Azevedo LC, Torelly AP, Kahn JM, Angus
+DC, Knibel MF, Brasil PE, Bozza FA, Salluh JI, Velasco MB, Dalcomune DM,
+Marshall R, Gilpin T, Tridente A, Raithatha A, Mota D, Loureiro B, Dias J,
+Afonso O, Coelho F, Martins A, Faria F, Al-Dorzi H, Al Orainni H, AlEid F,
+Tlaygeh H, Itani A, Hejazi A, Arabi Y, Gaudry S, Messika J, Ricard JD, Guillo S,
+Pasquet B, Dubief E, Dreyfuss D, Tubach F, Battle C, James K, Temblett P, Davies
+L, Battle C, Lynch C, Pereira S, Cavaco S, Fernandes J, Moreira I, Almeida E,
+Seabra Pereira F, Malheiro M, Cardoso F, Aragão I, Cardoso T, Fister M, Knafelj
+R, Muraray Govind P, Brahmananda Reddy N, Pratheema R, Arul ED, Devachandran J,
+Velasco MB, Dalcomune DM, Knafelj R, Fister M, Chin-Yee N, D’Egidio G, Thavorn
+K, Heyland D, Kyeremanteng K, Murchison AG, Swalwell K, Mandeville J, Stott D,
+Guerreiro I, Devine H, MacTavish P, McPeake J, Quasim T, Kinsella J, Daniel M,
+Goossens C, Marques MB, Derde S, Vander Perre S, Dufour T, Thiessen SE, Güiza F,
+Janssens T, Hermans G, Vanhorebeek I, De Bock K, Van den Berghe G, Langouche L,
+Devine H, MacTavish P, Quasim T, Kinsella J, Daniel M, McPeake J, Miles B,
+Madden S, Devine H, Weiler M, Marques P, Rodrigues C, Boeira M, Brenner K, Leães
+C, Machado A, Townsend R, Andrade J, MacTavish P, McPeake J, Devine H, Kinsella
+J, Daniel M, Kishore R, Fenlon C, Quasim T, Fiks T, Ruijter A, Te Raa M, Spronk
+P, Chiew YS, Docherty P, Dickson J, Moltchanova E, Scarrot C, Pretty C, Shaw GM,
+Chase JG, Hall T, Ngu WC, Jack JM, Morgan P, Avard B, Pavli A, Gee X, Bor C,
+Akin Korhan E, Demirag K, Uyar M, Shirazy M, Fayed A, Gupta S, Kaushal A, Dewan
+S, Varma A, Ghosh E, Yang L, Eshelman L, Lord B, Carlson E, Helme E, Broderick
+R, Hadfield S, Loveridge R, Ramos J, Forte D, Yang F, Hou P, Dudziak J, Feeney
+J, Wilkinson K, Bauchmuller K, Shuker K, Faulds M, Raithatha A, Bryden D,
+England L, Bolton N, Tridente A, Bauchmuller K, Shuker K, Tridente A, Faulds M,
+Matheson A, Gaynor J, Bryden D; S South Yorkshire Hospitals Research
+Collaboration; Ramos J, Peroni B, Daglius-Dias R, Miranda L, Cohen C, Carvalho
+C, Velasco I, Forte D, Kelly JM, Neill A, Rubenfeld G, Masson N, Min A, Boezeman
+E, Hofhuis J, Hovingh A, De Vries R, Spronk P, Cabral-Campello G, Aragão I,
+Cardoso T, Van Mol M, Nijkamp M, Kompanje E, Ostrowski P, Omar A, Kiss K, Köves
+B, Csernus V, Molnár Z, Hoydonckx Y, Vanwing S, Stessel B, Van Assche A, Jamaer
+L, Dubois J, Medo V, Galvez R, Miranda JP, Stone C, Wigmore T, Arunan Y, Wheeler
+A, Bauchmuller K, Bryden D, Wong Y, Poi C, Gu C, Molmy P, Van Grunderbeeck N,
+Nigeon O, Lemyze M, Thevenin D, Mallat J, Ramos J, Correa M, Carvalho RT, Forte
+D, Fernandez A, McBride C, Koonthalloor E, Walsh C, Webber A, Ashe M, Smith K,
+Jeanrenaud P, Marudi A, Baroni S, Ragusa F, Bertellini E, Volakli EA,
+Chochliourou E, Dimitriadou M, Violaki A, Mantzafleri P, Samkinidou E, Vrani O,
+Arbouti A, Varsami T, Sdougka M, Bollen JA, Van Smaalen TC, De Jongh WC, Ten
+Hoopen MM, Ysebaert D, Van Heurn LW, Van Mook WN, Sim K, Fuller A, Roze des
+Ordons A, Couillard P, Doig C, Van Keer RV, Deschepper RD, Francke AF, Huyghens
+LH, Bilsen JB, Nyamaizi B, Dalrymple C, Molokhia A, Dobru A, Marrinan E, Ankuli
+A, Molokhia A, McPeake J, Struthers R, Crawford R, Devine H, Mactavish P, Quasim
+T, Morelli P, Degiovanangelo M, Lemos F, MArtinez V, Verga F, Cabrera J, Burghi
+G, Rutten A, Van Ieperen S, De Geer S, Van Vugt M, Der Kinderen E, Giannini A,
+Miccinesi G, Marchesi T, Prandi E. 36th International Symposium on Intensive
+Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016. Crit Care.
+2016 Apr 20;20(Suppl 2):94. doi: 10.1186/s13054-016-1208-6. Erratum in: Crit
+Care. 2016 Oct 24;20:347. doi: 10.1186/s13054-016-1358-6. PMID: 27885969; PMCID:
+PMC5493079.
+
+7: Dougherty SC, Flowers WL, Gaughan EM. Precision Oncology in Melanoma:
+Changing Practices. J Nucl Med. 2024 Dec 3;65(12):1838-1845. doi:
+10.2967/jnumed.124.267781. PMID: 39542696; PMCID: PMC11619585.
+
+8: Minopoulou I, Fagni F, Atzinger A, Albach F, Schett G, Krönke G, Kleyer A,
+Simon D. Unconventional Imaging Methods in Psoriatic Arthritis. Curr Rheumatol
+Rep. 2025 Jan 10;27(1):13. doi: 10.1007/s11926-024-01174-5. PMID: 39792226;
+PMCID: PMC11723843.
+
+9: Chen I, Yu S. Enhancing HFUS accuracy in melanoma assessment: The role of
+artificial intelligence and statistical precision. J Eur Acad Dermatol Venereol.
+2025 May;39(5):e460-e461. doi: 10.1111/jdv.20419. Epub 2024 Nov 5. PMID:
+39501656.
+
+10: Rodrigues C, Singhal T. What is New in the Diagnosis of Childhood
+Tuberculosis? Indian J Pediatr. 2024 Jul;91(7):717-723. doi:
+10.1007/s12098-023-04992-0. Epub 2024 Jan 2. PMID: 38163830.
+
+11: Czajkowska J, Borak M. Computer-Aided Diagnosis Methods for High-Frequency
+Ultrasound Data Analysis: A Review. Sensors (Basel). 2022 Oct 30;22(21):8326.
+doi: 10.3390/s22218326. PMID: 36366024; PMCID: PMC9653964.
+
+12: Gao Y, Feng T, Qiu H, Gu Y, Chen Q, Zuo C, Ma H. 4D spectral-spatial
+computational photoacoustic dermoscopy. Photoacoustics. 2023 Nov 10;34:100572.
+doi: 10.1016/j.pacs.2023.100572. PMID: 38058749; PMCID: PMC10696115.
+
+13: Marosán-Vilimszky P, Szalai K, Horváth A, Csabai D, Füzesi K, Csány G,
+Gyöngy M. Automated Skin Lesion Classification on Ultrasound Images. Diagnostics
+(Basel). 2021 Jul 3;11(7):1207. doi: 10.3390/diagnostics11071207. PMID:
+34359290; PMCID: PMC8303815.
+
+14: Narayanamurthy V, Padmapriya P, Noorasafrin A, Pooja B, Hema K, Firus Khan
+AY, Nithyakalyani K, Samsuri F. Skin cancer detection using non-invasive
+techniques. RSC Adv. 2018 Aug 6;8(49):28095-28130. doi: 10.1039/c8ra04164d.
+PMID: 35542700; PMCID: PMC9084287.
+
+15: Yim J, Yau O, Yeung DF, Tsang TSM. Fabry Cardiomyopathy: Current Practice
+and Future Directions. Cells. 2021 Jun 17;10(6):1532. doi:
+10.3390/cells10061532. PMID: 34204530; PMCID: PMC8233708.
+
+16: Wortsman X, Lozano M, Rodriguez FJ, Valderrama Y, Ortiz-Orellana G, Zattar
+L, de Cabo F, Ducati E, Sigrist R, Fontan C, Rezende J, Gonzalez C, Schelke L,
+Zavariz J, Barrera P, Velthuis P. Artificial Intelligence Deep Learning
+Ultrasound Discrimination of Cosmetic Fillers: A Multicenter Study. J Ultrasound
+Med. 2026 Feb;45(2):429-436. doi: 10.1002/jum.70079. Epub 2025 Sep 29. PMID:
+41024593.
+
+17: Lee H, Lee Y, Jung SW, Lee S, Oh B, Yang S. Deep Learning-Based Evaluation
+of Ultrasound Images for Benign Skin Tumors. Sensors (Basel). 2023 Aug
+24;23(17):7374. doi: 10.3390/s23177374. PMID: 37687830; PMCID: PMC10490539.
+
+18: Clau Terré F, Vicho Pereira R, Ayuela Azcárate JM, Ruiz Bailén M. New
+ultrasound techniques. Present and future. Med Intensiva (Engl Ed). 2025
+Jan;49(1):40-49. doi: 10.1016/j.medine.2024.09.010. Epub 2024 Oct 5. PMID:
+39368887.
+
+19: Lari S, Kohandel M, Kwon HJ. Model based deep learning method for focused
+ultrasound pathway scanning. Sci Rep. 2024 Aug 29;14(1):20042. doi:
+10.1038/s41598-024-70689-9. PMID: 39198623; PMCID: PMC11358149.
+
+20: Korecka K, Slian A, Polańska A, Dańczak-Pazdrowska A, Żaba R, Czajkowska J.
+Automatic Assessment of AK Stage Based on Dermatoscopic and HFUS Imaging-A
+Preliminary Study. J Clin Med. 2024 Dec 10;13(24):7499. doi:
+10.3390/jcm13247499. PMID: 39768422; PMCID: PMC11677879.
+
+21: Czajkowska J, Korzekwa S, Pietka E. Computer Aided Diagnosis of Atopic
+Dermatitis. Comput Med Imaging Graph. 2020 Jan;79:101676. doi:
+10.1016/j.compmedimag.2019.101676. Epub 2019 Nov 28. PMID: 31841705.
+
+22: Czajkowska J, Juszczyk J, Piejko L, Glenc-Ambroży M. High-Frequency
+Ultrasound Dataset for Deep Learning-Based Image Quality Assessment. Sensors
+(Basel). 2022 Feb 14;22(4):1478. doi: 10.3390/s22041478. PMID: 35214381; PMCID:
+PMC8875486.
+
+23: Slian A, Korecka K, Polańska A, Czajkowska J. Segmentation of skin layers on
+HFUS images using the attention mechanism. Comput Methods Programs Biomed. 2025
+May;263:108668. doi: 10.1016/j.cmpb.2025.108668. Epub 2025 Feb 21. Erratum in:
+Comput Methods Programs Biomed. 2026 Jan;273:109115. doi:
+10.1016/j.cmpb.2025.109115. PMID: 40015155.
+
+24: Pathan RK, Alam FI, Yasmin S, Hamd ZY, Aljuaid H, Khandaker MU, Lau SL.
+Breast Cancer Classification by Using Multi-Headed Convolutional Neural Network
+Modeling. Healthcare (Basel). 2022 Nov 25;10(12):2367. doi:
+10.3390/healthcare10122367. PMID: 36553891; PMCID: PMC9777990.
+
+25: Kim MG, Yoon C, Lim HG. Recent Advancements in High-Frequency Ultrasound
+Applications from Imaging to Microbeam Stimulation. Sensors (Basel). 2024 Oct
+8;24(19):6471. doi: 10.3390/s24196471. PMID: 39409511; PMCID: PMC11479296.
+
+26: Lee S, Rahul, Lukan J, Boyko T, Zelenova K, Makled B, Parsey C, Norfleet J,
+De S. A deep learning model for burn depth classification using ultrasound
+imaging. J Mech Behav Biomed Mater. 2022 Jan;125:104930. doi:
+10.1016/j.jmbbm.2021.104930. Epub 2021 Oct 29. PMID: 34781225.
+
+27: Quan MY, Huang YX, Wang CY, Zhang Q, Chang C, Zhou SC. Deep learning
+radiomics model based on breast ultrasound video to predict HER2 expression
+status. Front Endocrinol (Lausanne). 2023 Apr 18;14:1144812. doi:
+10.3389/fendo.2023.1144812. PMID: 37143737; PMCID: PMC10153672.
+
+28: Soglia S, Pérez-Anker J, Lobos Guede N, Giavedoni P, Puig S, Malvehy J.
+Diagnostics Using Non-Invasive Technologies in Dermatological Oncology. Cancers
+(Basel). 2022 Nov 29;14(23):5886. doi: 10.3390/cancers14235886. PMID: 36497368;
+PMCID: PMC9738560.
+
+29: Górecki S, Tatka A, Brusey J. Artificial Intelligence and New Technologies
+in Melanoma Diagnosis: A Narrative Review. Cancers (Basel). 2025 Dec
+5;17(24):3896. doi: 10.3390/cancers17243896. PMID: 41463145; PMCID: PMC12731220.
+
+30: Gillies RJ, Schabath MB. Radiomics Improves Cancer Screening and Early
+Detection. Cancer Epidemiol Biomarkers Prev. 2020 Dec;29(12):2556-2567. doi:
+10.1158/1055-9965.EPI-20-0075. Epub 2020 Sep 11. PMID: 32917666; PMCID:
+PMC12306495.
+
+31: Tsai MJ, Tao YH. Deep Learning Technology Applied to Medical Image Tissue
+Classification. Diagnostics (Basel). 2022 Oct 7;12(10):2430. doi:
+10.3390/diagnostics12102430. PMID: 36292119; PMCID: PMC9600639.
+
+32: Lonsdale H, Gray GM, Ahumada LM, Matava CT. Machine Vision and Image
+Analysis in Anesthesia: Narrative Review and Future Prospects. Anesth Analg.
+2023 Oct 1;137(4):830-840. doi: 10.1213/ANE.0000000000006679. Epub 2023 Sep 5.
+PMID: 37712476; PMCID: PMC11495405.
+
+33: Iddir SP, Love J, Ma JS, Bryan JM, Ganesh S, Heiferman MJ, Yi D. Predicting
+Malignant Transformation of Choroidal Nevi Using Machine Learning. Res Sq
+[Preprint]. 2023 Dec 21:rs.3.rs-3778562. doi: 10.21203/rs.3.rs-3778562/v1. PMID:
+38196619; PMCID: PMC10775400.
+
+34: Jartarkar SR, Patil A, Wollina U, Gold MH, Stege H, Grabbe S, Goldust M. New
+diagnostic and imaging technologies in dermatology. J Cosmet Dermatol. 2021
+Dec;20(12):3782-3787. doi: 10.1111/jocd.14499. Epub 2021 Oct 15. PMID: 34652880.
+
+35: Jin FQ, Knight AE, Cardones AR, Nightingale KR, Palmeri ML. Semi-automated
+weak annotation for deep neural network skin thickness measurement. Ultrason
+Imaging. 2021 Jul;43(4):167-174. doi: 10.1177/01617346211014138. Epub 2021 May
+11. PMID: 33971769; PMCID: PMC9830555.
+
+36: Chauvel-Picard J, Tognetti L, Cinotti E, Gleizal A, Suppa M, Rubegni P,
+Marmol VD, Raffaelli C, Bahadoran P, Perrot JL. Non-invasive optical skin
+imaging techniques: A historical and contemporary perspective. Ann Dermatol
+Venereol. 2025 Sep;152(3):103365. doi: 10.1016/j.annder.2025.103365. Epub 2025
+Aug 25. PMID: 40857863.
+
+37: Verbeek S, Dalvin LA. Advances in multimodal imaging for diagnosis of
+pigmented ocular fundus lesions. Can J Ophthalmol. 2024 Aug;59(4):218-233. doi:
+10.1016/j.jcjo.2023.07.005. Epub 2023 Jul 19. PMID: 37480939; PMCID:
+PMC10796850.
+
+38: Chantasartrassamee P, Ongphiphadhanakul B, Suvikapakornkul R, Binsirawanich
+P, Sriphrapradang C. Artificial intelligence-enhanced infrared thermography as a
+diagnostic tool for thyroid malignancy detection. Ann Med. 2024
+Dec;56(1):2425826. doi: 10.1080/07853890.2024.2425826. Epub 2024 Nov 8. PMID:
+39512175; PMCID: PMC11552279.
+
+39: Lee M, Park S, Park SH, Park HY, Lee YR, Kim MS, Nam M, Lee J, Seo H, Lee
+YH, Lee CJ, Park JH, Yoo HH, Kim HJ, Shin KO, Uchida Y, Park K. Nutriomics and
+artificial intelligence nutrition obesity cohort (NAINOC): a design paper for a
+prospective cohort for nutrition and obesity research. Clin Hypertens. 2025 Oct
+1;31:e28. doi: 10.5646/ch.2025.31.e28. PMID: 41089592; PMCID: PMC12517696.
+
+40: Marosán P, Szalai K, Csabai D, Csány G, Horváth A, Gyöngy M. Automated
+seeding for ultrasound skin lesion segmentation. Ultrasonics. 2021
+Feb;110:106268. doi: 10.1016/j.ultras.2020.106268. Epub 2020 Oct 5. PMID:
+33068826.
+
+41: Czajkowska J, Badura P, Korzekwa S, Płatkowska-Szczerek A. Deep learning
+approach to skin layers segmentation in inflammatory dermatoses. Ultrasonics.
+2021 Jul;114:106412. doi: 10.1016/j.ultras.2021.106412. Epub 2021 Mar 21. PMID:
+33784575.
+
+42: Ling Y, Wang Y, Dai W, Yu J, Liang P, Kong D. MTANet: Multi-Task Attention
+Network for Automatic Medical Image Segmentation and Classification. IEEE Trans
+Med Imaging. 2024 Feb;43(2):674-685. doi: 10.1109/TMI.2023.3317088. Epub 2024
+Feb 2. PMID: 37725719.
+
+43: Butova X, Shayakhmetov S, Fedin M, Zolotukhin I, Gianesini S. Artificial
+Intelligence Evidence-Based Current Status and Potential for Lower Limb Vascular
+Management. J Pers Med. 2021 Dec 2;11(12):1280. doi: 10.3390/jpm11121280. PMID:
+34945749; PMCID: PMC8705683.
+
+44: Boostani M, Wortsman X, Pellacani G, Füzesi K, Suppa M, Del Marmol V,
+Morandini FV, Perez-Anker J, Giavedoni P, Cantisani C, Boussingault L, Gyöngy M,
+Paragh G, Avanaki K, Kiss N. Dermoscopy-guided high-frequency ultrasound:
+Principles and applications in dermatology. JID Innov. 2025 Dec 29;6(2):100446.
+doi: 10.1016/j.xjidi.2025.100446. PMID: 41658266; PMCID: PMC12874293.
+
+45: Gong X, Li Q, Gu L, Chen C, Liu X, Zhang X, Wang B, Sun C, Yang D, Li L,
+Wang Y. Conventional ultrasound and contrast-enhanced ultrasound radiomics in
+breast cancer and molecular subtype diagnosis. Front Oncol. 2023 May
+23;13:1158736. doi: 10.3389/fonc.2023.1158736. PMID: 37287927; PMCID:
+PMC10242104.
+
+46: Johnstonbaugh K, Agrawal S, Durairaj DA, Fadden C, Dangi A, Karri SPK,
+Kothapalli SR. A Deep Learning Approach to Photoacoustic Wavefront Localization
+in Deep-Tissue Medium. IEEE Trans Ultrason Ferroelectr Freq Control. 2020
+Dec;67(12):2649-2659. doi: 10.1109/TUFFC.2020.2964698. Epub 2020 Nov 24. PMID:
+31944951; PMCID: PMC7769001.
+
+47: Bandari E, Beuzen T, Habashy L, Raza J, Yang X, Kapeluto J, Meneilly G,
+Madden K. Machine Learning Decision Support for Detecting Lipohypertrophy With
+Bedside Ultrasound: Proof-of-Concept Study. JMIR Form Res. 2022 May
+6;6(5):e34830. doi: 10.2196/34830. PMID: 35404833; PMCID: PMC9123536.
+
+48: Lee S, Rahul, Ye H, Chittajallu D, Kruger U, Boyko T, Lukan JK, Enquobahrie
+A, Norfleet J, De S. Real-time Burn Classification using Ultrasound Imaging. Sci
+Rep. 2020 Apr 2;10(1):5829. doi: 10.1038/s41598-020-62674-9. PMID: 32242131;
+PMCID: PMC7118155.
+
+49: Wu T, Sultan LR, Tian J, Cary TW, Sehgal CM. Machine learning for diagnostic
+ultrasound of triple-negative breast cancer. Breast Cancer Res Treat. 2019
+Jan;173(2):365-373. doi: 10.1007/s10549-018-4984-7. Epub 2018 Oct 20. PMID:
+30343454.
+
+50: Dadzie AK, Iddir SP, Ganesh S, Ebrahimi B, Rahimi M, Abtahi M, Son T,
+Heiferman MJ, Yao X. Artificial intelligence in the diagnosis of uveal melanoma:
+advances and applications. Exp Biol Med (Maywood). 2025 Feb 19;250:10444. doi:
+10.3389/ebm.2025.10444. PMID: 40046904; PMCID: PMC11879745.
+
+51: Faita F, Oranges T, Di Lascio N, Ciompi F, Vitali S, Aringhieri G, Janowska
+A, Romanelli M, Dini V. Ultra-high-frequency ultrasound and machine learning
+approaches for the differential diagnosis of melanocytic lesions. Exp Dermatol.
+2022 Jan;31(1):94-98. doi: 10.1111/exd.14330. Epub 2021 Mar 31. PMID: 33738861.
+
+52: Czajkowska J, Badura P, Korzekwa S, Płatkowska-Szczerek A, Słowińska M. Deep
+Learning-Based High-Frequency Ultrasound Skin Image Classification with
+Multicriteria Model Evaluation. Sensors (Basel). 2021 Aug 30;21(17):5846. doi:
+10.3390/s21175846. PMID: 34502735; PMCID: PMC8434172.
+
+53: Boussingault L, Mtimet L, Suppa M. Noninvasive skin imaging of melanocytic
+and nonmelanocytic tumours: recent findings. Curr Opin Oncol. 2026 Mar
+1;38(2):95-101. doi: 10.1097/CCO.0000000000001221. Epub 2026 Feb 2. PMID:
+41703997.
+
+54: Wang J, Qu N, Liu C, Lin Y, Cui Y, Cao X. Development and multicenter
+external validation of an intratumoral and peritumoral ultrasound-based
+radiomics model for preoperative prediction of HER2 status in IHC 2 + breast
+cancer. Eur J Med Res. 2025 Dec 30;31(1):172. doi: 10.1186/s40001-025-03698-7.
+PMID: 41462365; PMCID: PMC12866444.
+
+55: Simson WA, Paschali M, Sideri-Lampretsa V, Navab N, Dahl JJ. Investigating
+pulse-echo sound speed estimation in breast ultrasound with deep learning.
+Ultrasonics. 2024 Feb;137:107179. doi: 10.1016/j.ultras.2023.107179. Epub 2023
+Oct 29. PMID: 37939413; PMCID: PMC10842235.
+
+56: Tailor PD, Kopinski PK, D'Souza HS, Leske DA, Olsen TW, Shields CL, Shields
+JA, Dalvin LA. Predicting Choroidal Nevus Transformation to Melanoma Using
+Machine Learning. Ophthalmol Sci. 2024 Jul 20;5(1):100584. doi:
+10.1016/j.xops.2024.100584. PMID: 39318711; PMCID: PMC11421339.
+
+57: Paramasivam GB, Ramasamy Rajammal R. Modelling a self-defined CNN for
+effectual classification of PCOS from ultrasound images. Technol Health Care.
+2024;32(5):2893-2909. doi: 10.3233/THC-230935. PMID: 39177615.
+
+58: Tiu D, Wortsman X, Scurtu LG, Simionescu O. New Frontiers of Skin Ultrasound
+in Precision Medicine. Ultrasound Med Biol. 2026 Sep;52(9):1791-1805. doi:
+10.1016/j.ultrasmedbio.2026.05.015. Epub 2026 Jun 13. PMID: 42285862.
+
+59: Xu Y, Wang Y, Yuan J, Cheng Q, Wang X, Carson PL. Medical breast ultrasound
+image segmentation by machine learning. Ultrasonics. 2019 Jan;91:1-9. doi:
+10.1016/j.ultras.2018.07.006. Epub 2018 Jul 18. PMID: 30029074.
+
+60: Hong SG, Leem JW, Sakthivel H, Kwon S, Park SM, Dewan A, Botana DJ, Kim YL.
+Noninvasive malaria detection beyond blood sampling. Sens Diagn. 2026 Jul 21.
+doi: 10.1039/d6sd00085a. Epub ahead of print. PMID: 42592156; PMCID:
+PMC13463358.
+
+61: Hong JP, Kwon JG, Suh HP, Pak CJ, Kim HB, Han HH, Noh H, Hur JY, Brown E.
+The evolution of perforator flaps and the future of microsurgery. JPRAS Open.
+2025 Sep 14;47:33-42. doi: 10.1016/j.jpra.2025.09.016. PMID: 41497897; PMCID:
+PMC12766239.
+
+62: Tahmasebzadeh A, Sadeghi M, Naseripour M, Mirshahi R, Ghaderi R. Artificial
+intelligence and different image modalities in uveal melanoma diagnosis and
+prognosis: A narrative review. Photodiagnosis Photodyn Ther. 2025 Apr;52:104528.
+doi: 10.1016/j.pdpdt.2025.104528. Epub 2025 Feb 20. PMID: 39986588.
+
+63: Correa M, Zimic M, Barrientos F, Barrientos R, Román-Gonzalez A, Pajuelo MJ,
+Anticona C, Mayta H, Alva A, Solis-Vasquez L, Figueroa DA, Chavez MA, Lavarello
+R, Castañeda B, Paz-Soldán VA, Checkley W, Gilman RH, Oberhelman R. Automatic
+classification of pediatric pneumonia based on lung ultrasound pattern
+recognition. PLoS One. 2018 Dec 5;13(12):e0206410. doi:
+10.1371/journal.pone.0206410. PMID: 30517102; PMCID: PMC6281243.
+
+64: Mikołaj KW, Christensen AN, Taksøe-Vester CA, Feragen A, Petersen OB, Lin M,
+Nielsen M, Svendsen MBS, Tolsgaard MG. Predicting abnormal fetal growth using
+deep learning. NPJ Digit Med. 2025 May 29;8(1):318. doi:
+10.1038/s41746-025-01704-0. PMID: 40437236; PMCID: PMC12119859.
+
+65: Pierce TT, Ottensmeyer MP, Som A, Brattain LJ, Werblin JS, Sutphin PD,
+Schoen S, Johnson MR, Gjesteby L, Telfer BA, Samir AE. Individualized
+Ultrasound-Guided Intervention Phantom Development, Fabrication, and Proof of
+Concept. Annu Int Conf IEEE Eng Med Biol Soc. 2023 Jul;2023:1-4. doi:
+10.1109/EMBC40787.2023.10340966. PMID: 38082806.
+
+66: Ferre R, Elst J, Senthilnathan S, Lagree A, Tabbarah S, Lu FI, Sadeghi-Naini
+A, Tran WT, Curpen B. Machine learning analysis of breast ultrasound to classify
+triple negative and HER2+ breast cancer subtypes. Breast Dis. 2023;42(1):59-66.
+doi: 10.3233/BD-220018. PMID: 36911927.
+
+67: Andrėkutė K, Linkevičiūtė G, Raišutis R, Valiukevičienė S, Makštienė J.
+Automatic Differential Diagnosis of Melanocytic Skin Tumors Using Ultrasound
+Data. Ultrasound Med Biol. 2016 Dec;42(12):2834-2843. doi:
+10.1016/j.ultrasmedbio.2016.07.026. Epub 2016 Sep 13. PMID: 27637934.
+
+68: Dang MT, Lukas K, Choi DH, Chu TJ, Venketaraman V. Diagnostic Imaging of
+Extrapulmonary Tuberculosis Across Organ Systems. Diagnostics (Basel). 2026 Feb
+15;16(4):586. doi: 10.3390/diagnostics16040586. PMID: 41750734; PMCID:
+PMC12939562.
+
+69: Cai J. Deep Learning for Automated Quantification and Differential Diagnosis
+of Cutaneous Mastocytoma on Dynamic Ultrasound. J Ultrasound Med. 2026 Jun 20.
+doi: 10.1002/jum.70350. Epub ahead of print. PMID: 42322199.
+
+70: Zhang H, Zheng E, Zheng W, Huang C, Xi Y, Cheng Y, Yu S, Chakraborty S,
+Bonaccio E, Takabe K, Fan XC, Xu W, Xia J. OneTouch Automated Photoacoustic and
+Ultrasound Imaging of Breast in Standing Pose. IEEE Trans Med Imaging. 2025
+Nov;44(11):4617-4626. doi: 10.1109/TMI.2025.3578929. PMID: 40504720; PMCID:
+PMC12707420.
+
+71: Ahmad W, Ali H, Shah Z, Azmat S. A new generative adversarial network for
+medical images super resolution. Sci Rep. 2022 Jun 9;12(1):9533. doi:
+10.1038/s41598-022-13658-4. PMID: 35680968; PMCID: PMC9184641.
+
+72: Zhang H, Lang M, Shen H, Li H, Yang N, Chen B, Chen Y, Ding H, Yang W, Ji X,
+Zhou P, Cui L, Wang J, Xu W, Ye X, Liu Z, Yang Y, Wei T, Wang H, Yan Y, Wu C, Wu
+Y, Shi J, Wang Y, Fang X, Li R, Liang P, Yu J. Machine learning-based fusion
+model for predicting HER2 expression in breast cancer by Sonazoid-enhanced
+ultrasound: a multicenter study. Front Med (Lausanne). 2025 May 21;12:1585823.
+doi: 10.3389/fmed.2025.1585823. PMID: 40470054; PMCID: PMC12133895.
+
+73: Olveres J, González G, Torres F, Moreno-Tagle JC, Carbajal-Degante E,
+Valencia-Rodríguez A, Méndez-Sánchez N, Escalante-Ramírez B. What is new in
+computer vision and artificial intelligence in medical image analysis
+applications. Quant Imaging Med Surg. 2021 Aug;11(8):3830-3853. doi:
+10.21037/qims-20-1151. PMID: 34341753; PMCID: PMC8245941.
+
+74: Pavlidis ET, Galanis IN, Pavlidis TE. Update on current diagnosis and
+management of anaplastic thyroid carcinoma. World J Clin Oncol. 2023 Dec
+24;14(12):570-583. doi: 10.5306/wjco.v14.i12.570. PMID: 38179406; PMCID:
+PMC10762533.
+
+75: Kazemeini S, Nadeem-Tariq A, Hajian P, Anil B, Easterly J, Sraa K, Pokharel
+S, Metellus R, Kazemeini M. Hypertrophic and Keloid Scar Management: Advances in
+Diagnosis, Perioperative Care, and Anesthetic Modulation. Cureus. 2025 Jul
+26;17(7):e88810. doi: 10.7759/cureus.88810. PMID: 40861775; PMCID: PMC12377257.
+
+76: Woznicki P, Laqua F, Bley T, Baeßler B. AutoRadiomics: A Framework for
+Reproducible Radiomics Research. Front Radiol. 2022 Jul 7;2:919133. doi:
+10.3389/fradi.2022.919133. PMID: 37492662; PMCID: PMC10365084.
+
+77: Hashiba J, Yokota H, Abe K, Sekiguchi Y, Ikeda S, Sugiyama A, Kuwabara S,
+Uno T. Ultrasound-based radiomic analysis of the peripheral nerves for
+differentiation between CIDP and POEMS syndrome. Acta Radiol. 2023
+Sep;64(9):2627-2635. doi: 10.1177/02841851231181680. Epub 2023 Jun 27. PMID:
+37376758.
+
+78: Shi Q, Sun Z, Le X, Xie J, Lee C. Soft Robotic Perception System with
+Ultrasonic Auto-Positioning and Multimodal Sensory Intelligence. ACS Nano. 2023
+Mar 14;17(5):4985-4998. doi: 10.1021/acsnano.2c12592. Epub 2023 Mar 3. PMID:
+36867760.
+
+79: DA Silva DG, DA Silva DG, Angleri V, Scarpelli MC, Bergamasco JGA, Nóbrega
+SR, Damas F, Chaves TS, Camargo HA, Ugrinowitsch C, Libardi CA. Application of
+Artificial Intelligence to Automate the Reconstruction of Muscle Cross-Sectional
+Area Obtained by Ultrasound. Med Sci Sports Exerc. 2024 Sep 1;56(9):1840-1848.
+doi: 10.1249/MSS.0000000000003456. Epub 2024 Apr 19. PMID: 38637954.
+
+80: Slian A, Korecka K, Polańska A, Czajkowska J. Actinic keratosis staging in
+multimodal image data. Comput Methods Programs Biomed. 2026 Jul;281:109364. doi:
+10.1016/j.cmpb.2026.109364. Epub 2026 Apr 12. PMID: 41990405.
+
+81: Gurnani B, Kaur K. Artificial intelligence in retinoblastoma and uveal
+melanoma - a narrative review. Expert Rev Anticancer Ther. 2026 May 8:1-17. doi:
+10.1080/14737140.2026.2671252. Epub ahead of print. PMID: 42089602.
+
+82: Shields CL, Lally SE, Dalvin LA, Sagoo MS, Pellegrini M, Kaliki S, Gündüz
+AK, Furuta M, Mruthyunjaya P, Fung AT, Duker JS, Selig SM, Yaghy A, Ferenczy SR,
+Eydelman MB, Blumenkranz MS. White Paper on Ophthalmic Imaging for Choroidal
+Nevus Identification and Transformation into Melanoma. Transl Vis Sci Technol.
+2021 Feb 5;10(2):24. doi: 10.1167/tvst.10.2.24. PMID: 34003909; PMCID:
+PMC7900849.
+
+83: Lee KW, Lee HJ, Hu H, Kim HJ. Analysis of facial ultrasonography images
+based on deep learning. Sci Rep. 2022 Oct 1;12(1):16480. doi:
+10.1038/s41598-022-20969-z. PMID: 36182939; PMCID: PMC9526737.
+
+84: Malik MMUD, Ahmad J. Comment on: "Deep Learning-Based Skin Lesion
+Classification: A CNN Approach on High-Frequency Ultrasound Imaging". J
+Ultrasound Med. 2026 May 20. doi: 10.1002/jum.70300. Epub ahead of print. PMID:
+42160167.
+
+85: Heibel HD, Hooey L, Cockerell CJ. A Review of Noninvasive Techniques for
+Skin Cancer Detection in Dermatology. Am J Clin Dermatol. 2020
+Aug;21(4):513-524. doi: 10.1007/s40257-020-00517-z. PMID: 32383142.
+
+86: Grajdeanu IA, Vata D, Statescu L, Adriana Popescu I, Porumb-Andrese E,
+Ionela Patrascu A, Stincanu A, Taranu T, Crisan M, Gheuca Solovastru L. Use of
+imaging techniques for melanocytic naevi and basal cell carcinoma in integrative
+analysis (Review). Exp Ther Med. 2020 Jul;20(1):78-86. doi:
+10.3892/etm.2020.8620. Epub 2020 Mar 20. PMID: 32508998; PMCID: PMC7271701.
+
+87: Sciolla B, Cowell L, Dambry T, Guibert B, Delachartre P. Segmentation of
+Skin Tumors in High-Frequency 3-D Ultrasound Images. Ultrasound Med Biol. 2017
+Jan;43(1):227-238. doi: 10.1016/j.ultrasmedbio.2016.08.029. Epub 2016 Oct 6.
+PMID: 27720519.
+
+88: Cai J. Methodological Considerations for Improving Deep Learning-Based
+Classification of Skin Lesions in High-Frequency Ultrasound Imaging. J
+Ultrasound Med. 2026 Aug;45(8):1787-1788. doi: 10.1002/jum.70201. Epub 2026 Feb
+10. PMID: 41665130; PMCID: PMC13356451.
+
+89: Zhang X, He B, Sun D, Li H, Zhang N, Zhang Y. [Deep learning-driven high-
+frequency ultrasound method for skin aging assessment]. Sheng Wu Yi Xue Gong
+Cheng Xue Za Zhi. 2026 Jun 25;43(3):487-495. Chinese. doi:
+10.7507/1001-5515.202510021. PMID: 42366431; PMCID: PMC13311050.
+
+90: Andrei CA, Dragosloveanu S, Grigore AG, Anghel AA, Gogu AA, Birlutiu RM,
+Dragosloveanu CDM, Anghel C, Iftime A, Cergan R, Caruntu C, Scheau C. Cutaneous
+Thermography in Arthropathies: Quantitative Imaging, Machine Learning, and
+Clinical Translation. J Imaging. 2026 Jun 18;12(6):270. doi:
+10.3390/jimaging12060270. PMID: 42346933; PMCID: PMC13300874.
+
+91: Garcia CN, Wies C, Hauser K, Brinker TJ. Noninvasive Technologies for the
+Diagnosis of Squamous Cell Carcinoma: A Systematic Review and Meta-Analysis. JID
+Innov. 2024 Jul 20;4(6):100303. doi: 10.1016/j.xjidi.2024.100303. PMID:
+39263563; PMCID: PMC11388704.
+
+92: Sieiro Santos C, Sequí-Sabater JM, Benavent D. Artificial Intelligence in
+Systemic Sclerosis: Clinical Applications, Challenges, and Future Directions.
+Arthritis Care Res (Hoboken). 2026 Apr 20. doi: 10.1002/acr.80068. Epub ahead of
+print. PMID: 42007790.
+
+93: Pingdong S, Xinran S, Yunzhi S, Yihan S, Shipeng Z, Yan L, Qiushi L, Jipeng
+Z, Ting R, Wenjun W, Shengsheng Y, Gang L, Jinrui L, Xingai J, Xiang F, Jianchun
+C. A machine learning-based predictive model for complication risks in vacuum-
+assisted breast biopsy. Front Surg. 2025 Sep 8;12:1641441. doi:
+10.3389/fsurg.2025.1641441. PMID: 40989491; PMCID: PMC12450878.
+
+94: Cheng C, Wang Y, Zhao J, Wu D, Li H, Zhao H. Deep Learning and Radiomics in
+Triple-Negative Breast Cancer: Predicting Long-Term Prognosis and Clinical
+Outcomes. J Multidiscip Healthc. 2025 Jan 21;18:319-327. doi:
+10.2147/JMDH.S509004. PMID: 39866348; PMCID: PMC11762009.
+
+95: Chen G, Luo H, Liu W, Liao X, Meng J, Qiu Z, Leng X. Diagnostic Performance
+of High-Frequency Ultrasound and Ultra-High-Frequency Ultrasound in
+Distinguishing Dermatofibrosarcoma Protuberans from Dermatofibroma: A 15-year
+Period Retrospective Analysis. Clin Cosmet Investig Dermatol. 2025 Dec
+28;18:3621-3634. doi: 10.2147/CCID.S575360. PMID: 41488548; PMCID: PMC12756956.
+
+96: Fang X, Liu Y, Zhang X, Fan W, Qin Z, Yang Z, Tian J, Zhang L, Cui H.
+Ultrasound-based multiregional radiomics nomogram for predicting recurrence in
+HER2-positive breast cancer. BMC Med Imaging. 2026 Jun 6;26(1):394. doi:
+10.1186/s12880-026-02438-5. PMID: 42251269; PMCID: PMC13459333.
+
+97: Dimou K, Alexandrou F, Roussakis Y, Zamboglou C, Stylianopoulos T, Voutouri
+C. Deep learning prediction of chemo-immunotherapy response using tumor
+perfusion ultrasound images. Front Artif Intell. 2026 Jun 12;9:1805416. doi:
+10.3389/frai.2026.1805416. PMID: 42369008; PMCID: PMC13303846.
+
+98: Liu J, Xue X, Yan Y, Song Q, Cheng Y, Wang L, Wang X, Xu D. Prediction of
+breast cancer HER2 status changes based on ultrasound radiomics attention
+network. Comput Methods Programs Biomed. 2025 Nov;271:108987. doi:
+10.1016/j.cmpb.2025.108987. Epub 2025 Aug 5. PMID: 40779894.
+
+99: Czajkowska J, Polańska A, Slian A, Dańczak-Pazdrowska A. The usefulness of
+automated high frequency ultrasound image analysis in atopic dermatitis staging.
+Sci Rep. 2025 Jan 2;15(1):163. doi: 10.1038/s41598-024-84051-6. PMID: 39747292;
+PMCID: PMC11697316.
+
+100: D'Ignazio E, Corradini D, Cazenave T, Bixio R, Baldi C, Ubhi HK, Smith K,
+Wakefield RJ, Emery P, Di Matteo A. Ultrasound Beyond Joints: A Review of Extra-
+Articular Applications in Rheumatology. Curr Rheumatol Rep. 2025 Mar 4;27(1):20.
+doi: 10.1007/s11926-025-01186-9. PMID: 40035992; PMCID: PMC11880079.
+
+101: Valsamaki A, Mantzarlis K, Dimopoulos G. Recent advances in the management
+of skin and soft tissue infections. Curr Opin Infect Dis. 2026 Apr
+1;39(2):122-127. doi: 10.1097/QCO.0000000000001164. Epub 2025 Nov 27. PMID:
+41311153.
+
+102: Maciulevičius M, Rupšytė G, Raišutis R, Tamošiūnas M. Machine learning
+based diagnostics of veterinary cancer on ultrasound and optical imaging data.
+Vet Q. 2025 Dec;45(1):1-19. doi: 10.1080/01652176.2025.2510486. Epub 2025 May
+30. PMID: 40444796; PMCID: PMC12493615.
+
+103: Eadie LH, Taylor P, Gibson AP. A systematic review of computer-assisted
+diagnosis in diagnostic cancer imaging. Eur J Radiol. 2012 Jan;81(1):e70-6. doi:
+10.1016/j.ejrad.2011.01.098. Epub 2011 Feb 22. PMID: 21345631.
+
+104: da Silva IRV, Jardim AG, de Souza Faés GR, Alva TAP, Becker CDL, Botelho
+VR. Deep Learning-Based Skin Lesion Classification: A CNN Approach on High-
+Frequency Ultrasound Imaging. J Ultrasound Med. 2026 May;45(5):925-936. doi:
+10.1002/jum.70125. Epub 2025 Nov 20. PMID: 41267329; PMCID: PMC13053610.
+
+105: Yan M, Yao J, Zhang X, Xu D, Yang C. Machine learning-based model
+constructed from ultrasound radiomics and clinical features for predicting HER2
+status in breast cancer patients with indeterminate (2+) immunohistochemical
+results. Cancer Med. 2024 Feb;13(3):e6946. doi: 10.1002/cam4.6946. Epub 2024 Jan
+17. PMID: 38234171; PMCID: PMC10905683.
+
+106: Chen JG, Perez CB, Coogan A, Kim T, Sanchez-Johnsen L, Ohara K, Nelson C,
+Rizzo DM, Matt J, Watson EJ, Sowden MM, Ahern TP. Classification of Breast
+Lymphedema in a Racially Diverse Cohort. Lymphology. 2024;57(2):84-96. PMID:
+39536330.
+
+107: Thijssen JM, Starke A, Weijers G, Haudum A, Herzog K, Wohlsein P, Rehage J,
+De Korte CL. Computer-aided B-mode ultrasound diagnosis of hepatic steatosis: a
+feasibility study. IEEE Trans Ultrason Ferroelectr Freq Control.
+2008;55(6):1343-54. doi: 10.1109/TUFFC.2008.797. PMID: 18599422.
+
+108: Gebhardt C, Göttling L, Buchberger L, Ziegler C, Endres F, Wuermeling Q,
+Holzapfel BM, Wein W, Wagner F, Zettinig O. Femur reconstruction in 3D
+ultrasound for orthopedic surgery planning. Int J Comput Assist Radiol Surg.
+2023 Jun;18(6):1001-1008. doi: 10.1007/s11548-023-02868-4. Epub 2023 Apr 20.
+PMID: 37079246.
+
+109: Zhang XR, Yuan SS, Hu JJ, Chen QQ, Xiao YJ, Huang YF, Yu XQ, Lu F, Shen Y,
+Fu XH. An exploratory study on predicting HER2-positive expression status of
+breast cancer using ultrasound radiomics combined with machine learning models.
+PLoS One. 2025 Oct 23;20(10):e0334909. doi: 10.1371/journal.pone.0334909. PMID:
+41129497; PMCID: PMC12548876.
+
+110: Fiedler LS, Daaloul H. An overview of current assessment techniques for
+evaluating cutaneous perfusion in reconstructive surgery. J Biophotonics. 2024
+May;17(5):e202400002. doi: 10.1002/jbio.202400002. Epub 2024 Apr 10. PMID:
+38596828.
+
+111: Bi YW, Li YP. [Application of artificial intelligence in pathological
+diagnosis of ocular tumors]. Zhonghua Yan Ke Za Zhi. 2026 Mar 11;62(3):227-232.
+Chinese. doi: 10.3760/cma.j.cn112142-20250428-00207. PMID: 41820068.
+
+112: Xu R, You T, Liu C, Lin Q, Guo Q, Zhong G, Liu L, Ouyang Q. Ultrasound-
+based radiomics model for predicting molecular biomarkers in breast cancer.
+Front Oncol. 2023 Jul 31;13:1216446. doi: 10.3389/fonc.2023.1216446. PMID:
+37583930; PMCID: PMC10424446.
+
+113: Gao X, Chen X, Lin M, Yue W, Hu H, Qin S, Zhang F, Lou Z, Yin L, Huang H,
+Zhou S, Bian Y, Yang X, Zhu Y, Mu J, Wang X, Park G, Lu C, Wang R, Wu RS, Wang
+J, Li J, Xu S. A wearable echomyography system based on a single transducer. Nat
+Electron. 2024 Nov;7(11):1035-1046. doi: 10.1038/s41928-024-01271-4. Epub 2024
+Oct 31. PMID: 40677283; PMCID: PMC12269893.
+
+114: Moukarzel ARE, Fitzgerald J, Battraw M, Pereira C, Li A, Marasco P, Joiner
+WM, Schofield J. Ultrasound Imaging and Machine Learning to Detect Missing Hand
+Motions for Individuals Receiving Targeted Muscle Reinnervation for Nerve-Pain
+Prevention. IEEE Trans Neural Syst Rehabil Eng. 2025;33:2631-2637. doi:
+10.1109/TNSRE.2025.3586174. PMID: 40614146.
+
+115: Makol A, Nagaraja V, Amadi C, Pugashetti JV, Caoili E, Khanna D. Recent
+innovations in the screening and diagnosis of systemic sclerosis-associated
+interstitial lung disease. Expert Rev Clin Immunol. 2023 Jun;19(6):613-626. doi:
+10.1080/1744666X.2023.2198212. Epub 2023 Apr 10. PMID: 36999788; PMCID:
+PMC10698514.
+
+116: Happe M, Freitag M, Stücker M, Altmeyer P, Hoffmann K. Hochauflösende 20
+MHz-Sonographie in der Dermatologie zur nicht invasiven Darstellung maligner
+Melanome [High resolution 20 MHz ultrasound diagnosis in dermatology for
+noninvasive imaging of malignant melanomas]. Z Arztl Fortbild Qualitatssich.
+1997 Jul;91(4):347-53. German. PMID: 9340205.
+
+117: Ali H, Umander J, Rohlén R, Röhrle O, Grönlund C. Modelling intra-muscular
+contraction dynamics using in silico to in vivo domain translation. Biomed Eng
+Online. 2022 Jul 8;21(1):46. doi: 10.1186/s12938-022-01016-4. PMID: 35804415;
+PMCID: PMC9270806.
+
+118: Fionda B, Pagliara MM, Chyrek AJ, Guix B, O'Day RFJ, Fog LS, Martínez-Monge
+R, Tagliaferri L. Ocular Brachytherapy (Interventional Radiotherapy): Preserving
+the Vision. Clin Oncol (R Coll Radiol). 2023 Aug;35(8):e445-e452. doi:
+10.1016/j.clon.2023.01.021. Epub 2023 Feb 6. PMID: 36792447.
+
+119: Huang Z, Zhang X, Ju Y, Zhang G, Chang W, Song H, Gao Y. Explainable breast
+cancer molecular expression prediction using multi-task deep-learning based on
+3D whole breast ultrasound. Insights Imaging. 2024 Sep 19;15(1):227. doi:
+10.1186/s13244-024-01810-9. PMID: 39320560; PMCID: PMC11424596.
+
+120: Chen X, He Y, Liu Z, Huang Z, Xu C, Liu Y, Haran Y, Nisar W, Yan S, Li J.
+Ultrasound-assisted extraction of polyphenols from lotus rhizome epidermis by
+alcohol/salt-based aqueous two-phase system: Optimization, extraction mechanism
+and antioxidant activities. Food Chem. 2024 Sep 30;453:139620. doi:
+10.1016/j.foodchem.2024.139620. Epub 2024 May 17. PMID: 38761727.
+
+121: Maciulevičius M, Rupšytė G, Raišutis R, Cugmas B, Tamošiūnas M.
+Differentiation of canine and feline neoplasms using multi-modal imaging and
+machine learning. Sci Rep. 2025 May 27;15(1):18482. doi:
+10.1038/s41598-025-02668-7. PMID: 40425716; PMCID: PMC12116909.
+
+122: Luo J, Chen Y, Yang Y, Zhang K, Liu Y, Zhao H, Dong L, Xu J, Li Y, Wei W.
+Prognosis Prediction of Uveal Melanoma After Plaque Brachytherapy Based on
+Ultrasound With Machine Learning. Front Med (Lausanne). 2022 Jan 21;8:777142.
+doi: 10.3389/fmed.2021.777142. PMID: 35127747; PMCID: PMC8816318.
+
+123: Ma Y, Duan S, Ren S, Bu D, Li Y, Cai X, Zhang L. Machine learning based
+ultrasomics noninvasive predicting EGFR expression status in hepatocellular
+carcinoma patients. Front Med (Lausanne). 2024 Nov 19;11:1483291. doi:
+10.3389/fmed.2024.1483291. PMID: 39624043; PMCID: PMC11609927.
+
+124: Bouchekout N, Boukabou A, Grimes M, Habchi Y, Himeur Y, Alkhazaleh HA,
+Atalla S, Mansoor W. A novel hybrid deep learning and chaotic dynamics approach
+for thyroid cancer classification. Sci Rep. 2025 Nov 18;15(1):40471. doi:
+10.1038/s41598-025-24334-8. PMID: 41253983; PMCID: PMC12627563.
+
+125: Rahman E, Rao P, Sayed K, Garcia PE, Ioannidis S, Yu N, Sadeghi-Esfahlani
+S, Nassif AD, Webb WR, Rahman Z, Peng HP, Goodman GJ. Decades of Scientific Data
+and Global Media Reporting on Complications in Non-surgical Aesthetic Treatments
+for a Transparent Safety Profile: Kissing Snow White Awake. Aesthetic Plast
+Surg. 2025 Oct;49(19):5567-5603. doi: 10.1007/s00266-025-05007-3. Epub 2025 Jul
+1. PMID: 40593115.
+
+126: Cao D, Zhang R, Zhang Y. MFLUnet: multi-scale fusion lightweight Unet for
+medical image segmentation. Biomed Opt Express. 2024 Sep 3;15(10):5574-5591.
+doi: 10.1364/BOE.529505. PMID: 39421782; PMCID: PMC11482190.
+
+127: Fahad N, Sadib RJ, Sajib RH, Morol MK, Nandi D, Liew TH. Responsible
+artificial intelligence in medical imaging: a systematic review. Front Digit
+Health. 2026 Jul 16;8:1884692. doi: 10.3389/fdgth.2026.1884692. PMID: 42535035;
+PMCID: PMC13422431.
+
+128: Zhu M, Kuang Y, Jiang Z, Liu J, Zhang H, Zhao H, Luo H, Chen Y, Peng Y.
+Ultrasound deep learning radiomics and clinical machine learning models to
+predict low nuclear grade, ER, PR, and HER2 receptor status in pure ductal
+carcinoma <i>in situ</i>. Gland Surg. 2024 Apr 29;13(4):512-527. doi:
+10.21037/gs-23-417. Epub 2024 Apr 11. PMID: 38720675; PMCID: PMC11074652.
+
+129: Xu Z, Yang Q, Li M, Gu J, Du C, Chen Y, Li B. Predicting HER2 Status in
+Breast Cancer on Ultrasound Images Using Deep Learning Method. Front Oncol. 2022
+Feb 16;12:829041. doi: 10.3389/fonc.2022.829041. PMID: 35251999; PMCID:
+PMC8889619.
+
+130: Reis ZSN, Romanelli RMC, Guimarães RN, Gaspar JS, Neves GS, do Vale MS,
+Nader PJ, de Moura MDR, Vitral GLN, Dos Reis MAA, Pereira MMM, Marques PF, Nader
+SS, Harff AL, Beleza LO, de Castro MEC, Souza RG, Pappa GL, de Aguiar RAPL.
+Newborn Skin Maturity Medical Device Validation for Gestational Age Prediction:
+Clinical Trial. J Med Internet Res. 2022 Sep 7;24(9):e38727. doi: 10.2196/38727.
+PMID: 36069805; PMCID: PMC9494223.
+
+131: Morid MA, Borjali A, Del Fiol G. A scoping review of transfer learning
+research on medical image analysis using ImageNet. Comput Biol Med. 2021
+Jan;128:104115. doi: 10.1016/j.compbiomed.2020.104115. Epub 2020 Nov 13. PMID:
+33227578.
+
+132: Sim Y, Park Y, Kwon K. Deep learning-integrated multilayer thermal gradient
+sensing platform for real-time blood flow monitoring. Sci Adv. 2026 Feb
+6;12(6):eaea8902. doi: 10.1126/sciadv.aea8902. Epub 2026 Feb 6. PMID: 41650267;
+PMCID: PMC12880533.
+
+133: Dar MF, Ganivada A. Fuzzy rough set loss for deep learning-based precise
+medical image segmentation. Comput Med Imaging Graph. 2026 Feb;128:102716. doi:
+10.1016/j.compmedimag.2026.102716. Epub 2026 Jan 23. PMID: 41581251.
+
+134: Li C, Dong W, Li Y. Diagnosis and differentiation of Kaposiform
+hemangioendothelioma based on ultrasound radiomics. Am J Cancer Res. 2024 Oct
+15;14(10):4935-4945. doi: 10.62347/AQSJ3784. PMID: 39553205; PMCID: PMC11560810.
+
+135: Goudarzi S, Whyte J, Boily M, Towers A, Kilgour RD, Rivaz H. Segmentation
+of Arm Ultrasound Images in Breast Cancer-Related Lymphedema: A Database and
+Deep Learning Algorithm. IEEE Trans Biomed Eng. 2023 Sep;70(9):2552-2563. doi:
+10.1109/TBME.2023.3253646. Epub 2023 Aug 30. PMID: 37028332.
+
+136: Ning G, Liang H, Zhang X, Liao H. Autonomous Robotic Ultrasound Vascular
+Imaging System With Decoupled Control Strategy for External-Vision-Free
+Environments. IEEE Trans Biomed Eng. 2023 Nov;70(11):3166-3177. doi:
+10.1109/TBME.2023.3279114. Epub 2023 Oct 19. PMID: 37227912.
+
+137: Xiao C, Zhu A, Xia C, Qiu Z, Liu Y, Zhao C, Ren W, Wang L, Dong L, Wang T,
+Guo L, Lei B. Attention-Guided Learning With Feature Reconstruction for Skin
+Lesion Diagnosis Using Clinical and Ultrasound Images. IEEE Trans Med Imaging.
+2025 Jan;44(1):543-555. doi: 10.1109/TMI.2024.3450682. Epub 2025 Jan 2. PMID:
+39208042.
+
+138: van Neer PLMJ, Peters LCJM, Verbeek RGFA, Peeters B, de Haas G, Hörchens L,
+Fillinger L, Schrama T, Merks-Swolfs EJW, Gijsbertse K, Saris AECM,
+Mozaffarzadeh M, Menssen JM, de Korte CL, van der Steen JPJ, Volker AWF, Gelinck
+GH. Flexible large-area ultrasound arrays for medical applications made using
+embossed polymer structures. Nat Commun. 2024 Mar 30;15(1):2802. doi:
+10.1038/s41467-024-47074-1. PMID: 38555281; PMCID: PMC10981753.
+
+139: Kakileti ST, Madhu HJ, Manjunath G, Wee L, Dekker A, Sampangi S.
+Personalized risk prediction for breast cancer pre-screening using artificial
+intelligence and thermal radiomics. Artif Intell Med. 2020 May;105:101854. doi:
+10.1016/j.artmed.2020.101854. Epub 2020 Apr 7. PMID: 32505418.
+
+140: Zhang X, Wu S, Zu X, Li X, Zhang Q, Ren Y, Qian X, Tong S, Li H.
+Ultrasound-based radiomics nomogram for predicting HER2-low expression breast
+cancer. Front Oncol. 2024 Sep 18;14:1438923. doi: 10.3389/fonc.2024.1438923.
+PMID: 39359429; PMCID: PMC11445231.
+
+141: Kaur P, Singh G, Kaur P. A Review of Denoising Medical Images Using Machine
+Learning  Approaches. Curr Med Imaging Rev. 2018 Oct;14(5):675-685. doi:
+10.2174/1573405613666170428154156. PMID: 30532667; PMCID: PMC6225344.
+
+142: Jiang M, Li CL, Luo XM, Chuan ZR, Lv WZ, Li X, Cui XW, Dietrich CF.
+Ultrasound-based deep learning radiomics in the assessment of pathological
+complete response to neoadjuvant chemotherapy in locally advanced breast cancer.
+Eur J Cancer. 2021 Apr;147:95-105. doi: 10.1016/j.ejca.2021.01.028. Epub 2021
+Feb 24. PMID: 33639324.
+
+143: Angeli S, Neophytou C, Charalambous A, Voutouri C, Themistokleous P,
+Stylianopoulos T, Mpekris F. Modulating tumor mechanics and vascular barriers to
+enhance chemotherapy efficacy in pancreatic tumors and melanoma. J Control
+Release. 2026 Feb 10;390:114546. doi: 10.1016/j.jconrel.2025.114546. Epub 2025
+Dec 15. PMID: 41407207; PMCID: PMC12848565.
+
+144: Loram I, Siddique A, Sanchez MB, Harding P, Silverdale M, Kobylecki C,
+Cunningham R. Objective Analysis of Neck Muscle Boundaries for Cervical Dystonia
+Using Ultrasound Imaging and Deep Learning. IEEE J Biomed Health Inform. 2020
+Apr;24(4):1016-1027. doi: 10.1109/JBHI.2020.2964098. Epub 2020 Jan 9. PMID:
+31940567.
+
+145: Zhang H, Wang L, Lin Y, Ha X, Huang C, Han C. Classification of Molecular
+Subtypes of Breast Cancer Using Radiomic Features of Preoperative Ultrasound
+Images. J Imaging Inform Med. 2025 Oct;38(5):2865-2877. doi:
+10.1007/s10278-025-01388-8. Epub 2025 Jan 22. PMID: 39843718; PMCID:
+PMC12572581.
+
+146: Davydov DA, Budylin GS, Baev AV, Vaypan DV, Seredenina EM, Matskeplishvili
+ST, Evlashin SA, Kamalov AA, Shirshin EA. Monitoring the skin structure during
+edema <i>in vivo</i> with spatially resolved diffuse reflectance spectroscopy. J
+Biomed Opt. 2023 May;28(5):057002. doi: 10.1117/1.JBO.28.5.057002. Epub 2023 May
+13. PMID: 37193365; PMCID: PMC10182858.
+
+147: Alazwari S, Alsamri J, Alamgeer M, Alotaibi SS, Obayya M, Salama AS.
+Automated gall bladder cancer detection using artificial gorilla troops
+optimizer with transfer learning on ultrasound images. Sci Rep. 2024 Sep
+19;14(1):21845. doi: 10.1038/s41598-024-72880-4. PMID: 39300284; PMCID:
+PMC11413303.
+
+148: Ochoa EJ, Revilla LC, Romero SE, Guarnizo GA, Marini TJ, Parker KJ, Zhao
+YT, Brennan G, Kan J, Meng S, Dozier A, Weiss A, Castaneda B. An AI-enabled
+comprehensive breast ultrasound diagnostic system for low-resource settings
+without a sonographer or a radiologist. Sci Rep. 2025 Dec 19;16(1):229. doi:
+10.1038/s41598-025-29554-6. PMID: 41419524; PMCID: PMC12770453.
+
+149: Lee H, Ramani LT, Parish LC, Lee JB. Tools of dermatology: A historical
+perspective. Clin Dermatol. 2021 Jul-Aug;39(4):555-562. doi:
+10.1016/j.clindermatol.2021.03.002. Epub 2021 Mar 18. PMID: 34809761.
+
+150: Czajkowska J, Badura P, Korzekwa S, Płatkowska-Szczerek A. Automated
+segmentation of epidermis in high-frequency ultrasound of pathological skin
+using a cascade of DeepLab v3+ networks and fuzzy connectedness. Comput Med
+Imaging Graph. 2022 Jan;95:102023. doi: 10.1016/j.compmedimag.2021.102023. Epub
+2021 Dec 2. PMID: 34883364.
+
+151: Yang M, Chen Y, Zhou X, Yu R, Huang N, Chen J. Machine learning models for
+prediction of NPVR ≥80% with HIFU ablation for uterine fibroids. Int J
+Hyperthermia. 2025 Dec;42(1):2473754. doi: 10.1080/02656736.2025.2473754. Epub
+2025 Mar 23. PMID: 40122145.
+
+152: Yao S, Dai F, Sun P, Zhang W, Qian B, Lu H. Enhancing the fairness of AI
+prediction models by Quasi-Pareto improvement among heterogeneous thyroid nodule
+population. Nat Commun. 2024 Mar 4;15(1):1958. doi: 10.1038/s41467-024-44906-y.
+PMID: 38438371; PMCID: PMC10912763.
+
+153: Zheng R, Xu H. Recent advances in wearable biophysical sensors for
+continuous muscle monitoring. Biosens Bioelectron. 2026 Jun 1;301:118463. doi:
+10.1016/j.bios.2026.118463. Epub 2026 Feb 4. PMID: 41678971.
+
+154: Kaiserman I, Rosner M, Pe'er J. Forecasting the prognosis of choroidal
+melanoma with an artificial neural network. Ophthalmology. 2005 Sep;112(9):1608.
+doi: 10.1016/j.ophtha.2005.04.008. PMID: 16023213.
+
+155: Jia K, Li H, Wu X, Xu C, Xue H. The Value of High-Resolution Ultrasound
+Combined with Shear-Wave Elastography under Artificial Intelligence Algorithm in
+Quantitative Evaluation of Skin Thickness in Localized Scleroderma. Comput
+Intell Neurosci. 2022 Mar 4;2022:1613783. doi: 10.1155/2022/1613783. PMID:
+35281193; PMCID: PMC8916868.
+
+156: Liu Y, Putcha A, Lyda G, Peng N, Pai S, Nguyen T, Xing S, Peng S, Fan Y, Wu
+Y, Xie W, Bai W. AI-boosted and motion-corrected, wireless near-infrared sensing
+system for continuously monitoring laryngeal muscles. Proc Natl Acad Sci U S A.
+2024 Dec 17;121(51):e2410750121. doi: 10.1073/pnas.2410750121. Epub 2024 Dec 9.
+PMID: 39652765; PMCID: PMC11665861.
+
+157: Gosbell AD, Barry WR, Favilla I. Computer-aided volume measurement of
+choroidal melanomas. Aust N Z J Ophthalmol. 1987 Nov;15(4):349-57. doi:
+10.1111/j.1442-9071.1987.tb00095.x. PMID: 3325084.
+
+158: Serbest Ceylanoglu K, Zhenyang Z, Ayres B, Li Y, Demirci H. Utilizing
+artificial intelligence for the diagnosis of ocular surface squamous neoplasia
+with ultrasound biomicroscopy images. Graefes Arch Clin Exp Ophthalmol. 2026
+Apr;264(4):1149-1157. doi: 10.1007/s00417-025-07034-x. Epub 2026 Jan 10. PMID:
+41518381; PMCID: PMC13002716.
+
+159: Xu Q, Jia C, Xia X, Xu N, Liu J. Artificial Intelligence in Botulinum Toxin
+Injections: A Mini-Review of Current Applications, Challenges, and Translational
+Perspectives. Cureus. 2026 May 15;18(5):e108898. doi: 10.7759/cureus.108898.
+PMID: 42148194; PMCID: PMC13178511.
+
+160: Laverde-Saad A, Jfri A, García R, Salgüero I, Martínez C, Cembrero H,
+Roustán G, Alfageme F. Discriminative deep learning based benignity/malignancy
+diagnosis of dermatologic ultrasound skin lesions with pretrained artificial
+intelligence architecture. Skin Res Technol. 2022 Jan;28(1):35-39. doi:
+10.1111/srt.13086. Epub 2021 Aug 22. PMID: 34420233; PMCID: PMC9907620.
+
+161: Ciller C, De Zanet S, Kamnitsas K, Maeder P, Glocker B, Munier FL, Rueckert
+D, Thiran JP, Bach Cuadra M, Sznitman R. Multi-channel MRI segmentation of eye
+structures and tumors using patient-specific features. PLoS One. 2017 Mar
+28;12(3):e0173900. doi: 10.1371/journal.pone.0173900. PMID: 28350816; PMCID:
+PMC5369682.
+
+162: Ling Y, Wang Y, Liu Q, Yu J, Xu L, Zhang X, Liang P, Kong D. EPolar-UNet:
+An edge-attending polar UNet for automatic medical image segmentation with small
+datasets. Med Phys. 2024 Mar;51(3):1702-1713. doi: 10.1002/mp.16957. Epub 2024
+Feb 1. PMID: 38299370.
+
+163: Ly CD, Nguyen VT, Vo TH, Mondal S, Park S, Choi J, Vu TTH, Kim CS, Oh J.
+Full-view in vivo skin and blood vessels profile segmentation in photoacoustic
+imaging based on deep learning. Photoacoustics. 2021 Oct 20;25:100310. doi:
+10.1016/j.pacs.2021.100310. PMID: 34824975; PMCID: PMC8603312.
+
+164: Sawaya R, Ligon BL, Bindal AK, Bindal RK, Hess KR. Surgical treatment of
+metastatic brain tumors. J Neurooncol. 1996 Mar;27(3):269-77. doi:
+10.1007/BF00165484. PMID: 8847561.
+
+165: Wu X, Liu H, Liu J, Mu B, Li J, Wang S, Li F, Lu X, Chen J, Peng Y, Yi Y,
+Lv J, Bu H. Multimodal Deep Learning with Routine Clinical Data for Recurrence
+Risk Stratification in HR<sup>+</sup>/HER2<sup>-</sup> Early Breast Cancer.
+Research (Wash D C). 2026 Mar 30;9:1136. doi: 10.34133/research.1136. PMID:
+41919095; PMCID: PMC13033830.
+
+166: In Chan JJ, Ma J, Leng Y, Tan KK, Tan CW, Sultana R, Sia ATH, Sng BL.
+Machine learning approach to needle insertion site identification for spinal
+anesthesia in obese patients. BMC Anesthesiol. 2021 Oct 18;21(1):246. doi:
+10.1186/s12871-021-01466-8. PMID: 34663224; PMCID: PMC8522234.
+
+167: Marsh-Armstrong BP, Ryan JF, Mariano DJ, Suresh PJ, Supat B. Building
+Affordable, Durable, Medium-fidelity Ballistic Gel Phantoms for Ultrasound-
+guided Nerve Block Training. J Vis Exp. 2024 Feb 9;(204). doi: 10.3791/66194.
+PMID: 38407270.
+
+168: Gare GR, Li J, Joshi R, Magar R, Vaze MP, Yousefpour M, Rodriguez RL,
+Galeotti JM. W-Net: Dense and diagnostic semantic segmentation of subcutaneous
+and breast tissue in ultrasound images by incorporating ultrasound RF waveform
+data. Med Image Anal. 2022 Feb;76:102326. doi: 10.1016/j.media.2021.102326. Epub
+2021 Dec 5. PMID: 34936967.
+
+169: Saxena A, Ng EYK, Lim ST. Infrared (IR) thermography as a potential
+screening modality for carotid artery stenosis. Comput Biol Med. 2019
+Oct;113:103419. doi: 10.1016/j.compbiomed.2019.103419. Epub 2019 Aug 28. PMID:
+31493579.
+
+170: Umapathy S, Thulasi R, Gupta N, Sivanadhan S. Thermography and colour
+Doppler ultrasound: a potential complementary diagnostic tool in evaluation of
+rheumatoid arthritis in the knee region. Biomed Tech (Berl). 2020 May
+26;65(3):289-299. doi: 10.1515/bmt-2019-0051. PMID: 31821162.
+
+171: Tiwari KA, Raišutis R, Liutkus J, Valiukevičienė S. Diagnostics of
+Melanocytic Skin Tumours by a Combination of Ultrasonic, Dermatoscopic and
+Spectrophotometric Image Parameters. Diagnostics (Basel). 2020 Aug 26;10(9):632.
+doi: 10.3390/diagnostics10090632. PMID: 32858850; PMCID: PMC7555363.
+
+172: Wang Y, Luo H, Song D, Duan M, Han Y, Wang W, Feng Y, Jiang X. Applications
+of the Noninvasive Skin Imaging Techniques and Image-Based Artificial
+Intelligence in Rosacea: A Narrative Review. Dermatology. 2026;242(3):268-279.
+doi: 10.1159/000550245. Epub 2026 Feb 3. PMID: 41632733.
+
+173: Chen Y, Gong Z, Liang S, Zhang Y, Cheng W, Jia X, Ren L, Wang X. Advances
+in the study and application of digital technology in the clinical practice of
+atopic dermatitis. Digit Health. 2025 Sep 10;11:20552076251377957. doi:
+10.1177/20552076251377957. PMID: 40949673; PMCID: PMC12423535.
+
+174: Long B, Zhang H, Zhang H, Chen W, Sun Y, Tang R, Lin Y, Fu Q, Yang X, Cui
+L, Wang K. Deep learning models of ultrasonography significantly improved the
+differential diagnosis performance for superficial soft-tissue masses: a
+retrospective multicenter study. BMC Med. 2023 Oct 26;21(1):405. doi:
+10.1186/s12916-023-03099-9. PMID: 37880716; PMCID: PMC10601110.
+
+175: Intagliata D, Garo ML. The Role of Ultrasound in the Diagnosis and
+Treatment of Cellulite: A Systematic Review. J Clin Med. 2026 Jan 23;15(3):943.
+doi: 10.3390/jcm15030943. PMID: 41682624; PMCID: PMC12897726.
+
+176: Zhang XR, Hu JJ, Yuan SS, Chen QQ, Yu XQ, Wu Y, Wang Y, Fu XH, Shen Y.
+Evaluation of a deep transfer learning-based ultrasound model for predicting
+HER2-positive breast cancer. Sci Rep. 2026 Jul 13. doi:
+10.1038/s41598-026-62063-8. Epub ahead of print. PMID: 42443352.
+
+177: Mehran NA, Rooney E, Shah H, Gomolin T, Zeizafoun N, Williams D, Margolies
+LR, Chen C. Suspicion for Sarcoma: Clinical Presentation, Multi-Modality Imaging
+Evaluation, and Ultrasound Artificial Intelligence-Based Decision Support.
+Cancers (Basel). 2025 Nov 11;17(22):3626. doi: 10.3390/cancers17223626. PMID:
+41300992; PMCID: PMC12651315.
+
+178: Ni X, Li MZ, Zhou SQ, Xu ZD, Zhang YQ, Yu YB, Su J, Zhang LM, Liu ZQ.
+Accuro ultrasound-based system with computer-aided image interpretation compared
+to traditional palpation technique for neuraxial anesthesia placement in obese
+parturients undergoing cesarean delivery: a randomized controlled trial. J
+Anesth. 2021 Aug;35(4):475-482. doi: 10.1007/s00540-021-02922-y. Epub 2021 May
+29. PMID: 34050798.
+
+179: Wang SJ, Zhang WB, Yu Y, Xie XY, Yang HY, Peng X. [Application of computer-
+assisted design for anterolateral thigh flap in oral and maxillofacial
+reconstruction]. Beijing Da Xue Xue Bao Yi Xue Ban. 2020 Feb 18;52(1):119-123.
+Chinese. doi: 10.19723/j.issn.1671-167X.2020.01.019. PMID: 32071474; PMCID:
+PMC7439064.
+
+180: Zhu H, Huang Y, Yao K, Shang J, Hu K, Li Z, He G. AttmNet: a hybrid
+Transformer integrating self-attention, Mamba, and multi-layer convolution for
+enhanced lesion segmentation. Quant Imaging Med Surg. 2025 May
+1;15(5):4296-4310. doi: 10.21037/qims-2024-2561. Epub 2025 Apr 28. PMID:
+40384647; PMCID: PMC12084717.
+
+181: Hemalatha RJ, Vijaybaskar V, Thamizhvani TR. Automatic localization of
+anatomical regions in medical ultrasound images of rheumatoid arthritis using
+deep learning. Proc Inst Mech Eng H. 2019 Jun;233(6):657-667. doi:
+10.1177/0954411919845747. Epub 2019 Apr 24. PMID: 31017534.
+
+182: Zhu AQ, Wang Q, Shi YL, Ren WW, Cao X, Ren TT, Wang J, Zhang YQ, Sun YK,
+Chen XW, Lai YX, Ni N, Chen YC, Hu JL, Mou LC, Zhao YJ, Liu YQ, Sun LP, Zhu XX,
+Xu HX, Guo LH; China Alliance of Multi-Center Clinical Study for Ultrasound
+(Ultra-Chance). A deep learning fusion network trained with clinical and high-
+frequency ultrasound images in the multi-classification of skin diseases in
+comparison with dermatologists: a prospective and multicenter study.
+EClinicalMedicine. 2024 Jan 5;67:102391. doi: 10.1016/j.eclinm.2023.102391.
+PMID: 38274117; PMCID: PMC10808933.
+
+183: Tahmasebzadeh A, Yazdani E, Naseripour M, Mirshahi R, Ghaderi R, Sadeghi M.
+Automatic classification of uveal melanoma response patterns following
+ruthenium-106 plaque brachytherapy using ultrasound images and deep
+convolutional neural network. Sci Rep. 2025 Dec 29;15(1):44835. doi:
+10.1038/s41598-025-28995-3. PMID: 41461779; PMCID: PMC12749780.
+
+184: Malik B, Klock J, Wiskin J, Lenox M. Objective breast tissue image
+classification using Quantitative Transmission ultrasound tomography. Sci Rep.
+2016 Dec 9;6:38857. doi: 10.1038/srep38857. PMID: 27934955; PMCID: PMC5146962.
+
+185: Yao J, Jia X, Zhou W, Zhu Y, Chen X, Zhan W, Zhou J. Predicting axillary
+response to neoadjuvant chemotherapy using peritumoral and intratumoral
+ultrasound radiomics in breast cancer subtypes. iScience. 2024 Aug
+13;27(9):110716. doi: 10.1016/j.isci.2024.110716. PMID: 39280600; PMCID:
+PMC11399604.
+
+186: Colao B, Khachemoune A. Mohs micrographic surgery challenges and new
+technologies to optimize care of cutaneous malignancies of the ear. Arch
+Dermatol Res. 2024 Jun 1;316(6):320. doi: 10.1007/s00403-024-03127-5. PMID:
+38822894.
+
+187: Qin Y, Zhang Z, Qu X, Liu W, Yan Y, Huang Y. A machine learning model based
+on high-frequency ultrasound for differentiating benign and malignant skin
+tumors. Med Ultrason. 2025 Sep 17;27(3):284-293. doi: 10.11152/mu-4504. Epub
+2025 Apr 11. PMID: 40349378.
+
+188: Guerrisi A, Miseo L, Falcone I, Messina C, Ungania S, Elia F, Desiderio F,
+Valenti F, Cantisani V, Soriani A, Caterino M. Quantitative ultrasound radiomics
+analysis to evaluate lymph nodes in patients with cancer: a systematic review.
+Ultraschall Med. 2024 Dec;45(6):586-596. English. doi: 10.1055/a-2275-8342. Epub
+2024 Apr 25. PMID: 38663433.
+
+189: Sühn T, Spiller M, Salvi R, Hellwig S, Boese A, Illanes A, Friebe M.
+Auscultation System for Acquisition of Vascular Sounds - Towards Sound-Based
+Monitoring of the Carotid Artery. Med Devices (Auckl). 2020 Oct 30;13:349-364.
+doi: 10.2147/MDER.S268057. PMID: 33162758; PMCID: PMC7642592.
+
+190: Yin W, He Y, Chen Y, Liu Z, Fang J, Liang C, Yuan Z, Qian K, Zhang W, Zhang
+J. Fusing photoacoustic microscopy and ultrasound imaging: an artificial
+intelligence strategy for vessel enhancement in interventional guidance. Biomed
+Opt Express. 2026 Feb 4;17(3):1173-1188. doi: 10.1364/BOE.588654. PMID:
+41970591; PMCID: PMC13064631.
+
+191: Niu S, Huang J, Li J, Liu X, Wang D, Wang Y, Shen H, Qi M, Xiao Y, Guan M,
+Li D, Liu F, Wang X, Xiong Y, Gao S, Wang X, Yu P, Zhu J. Differential diagnosis
+between small breast phyllodes tumors and fibroadenomas using artificial
+intelligence and ultrasound data. Quant Imaging Med Surg. 2021
+May;11(5):2052-2061. doi: 10.21037/qims-20-919. PMID: 33936986; PMCID:
+PMC8047381.
+
+192: Parwekar P, Agrawal KK, Ali J, Gundagatti S, Rajpoot DS, Ahmed T, Vidyarthi
+A. Dual-Parallel Artificial Intelligence Framework for Breast Cancer Grading via
+High-Intensity Ultrasound and Biomarkers. Cancer Biother Radiopharm. 2026
+Aug;41(6):544-552. doi: 10.1177/10849785251383328. Epub 2025 Oct 1. PMID:
+41027412.
+
+193: de Haan J, Neeter LMFH, Boekema BKHL, Timmers MS, Meij-de Vries A.
+Necrotizing soft tissue infections: Challenges and opportunities to improve
+patient outcomes. Burns. 2026 Aug 10;52(9):108176. doi:
+10.1016/j.burns.2026.108176. Epub ahead of print. PMID: 42607512.
+
+194: Xiao Y, Sun L, Ke Q, Wang J, Zhang M, Chen C. Applications and prospects of
+ultrasound in difficult airway management: A narrative review. Am J Otolaryngol.
+2026 Jul-Aug;47(4):104866. doi: 10.1016/j.amjoto.2026.104866. Epub 2026 Jun 3.
+PMID: 42248090.
+
+195: Webster M, Kim KE, Lim J, Lee J, Kim BS. Masked autoencoder pretraining for
+peripheral nerve segmentation in ultrasound images. Sci Rep. 2026 Jun
+10;16(1):23639. doi: 10.1038/s41598-026-57368-7. PMID: 42265235; PMCID:
+PMC13424653.
+
+196: Niu S, Huang J, Li J, Liu X, Wang D, Zhang R, Wang Y, Shen H, Qi M, Xiao Y,
+Guan M, Liu H, Li D, Liu F, Wang X, Xiong Y, Gao S, Wang X, Zhu J. Application
+of ultrasound artificial intelligence in the differential diagnosis between
+benign and malignant breast lesions of BI-RADS 4A. BMC Cancer. 2020 Oct
+2;20(1):959. doi: 10.1186/s12885-020-07413-z. PMID: 33008320; PMCID: PMC7532640.
+
+197: Hinz T, Voth H, Ahmadzadehfar H, Hoeller T, Wenzel J, Bieber T, Schmid-
+Wendtner MH. Role of high-resolution ultrasound and PET/CT imaging for
+preoperative characterization of sentinel lymph nodes in cutaneous melanoma.
+Ultrasound Med Biol. 2013 Jan;39(1):30-6. doi:
+10.1016/j.ultrasmedbio.2012.08.024. Epub 2012 Nov 2. PMID: 23122637.
+
+198: Liu Y, Cheng L. Ultrasound Images Guided under Deep Learning in the
+Anesthesia Effect of the Regional Nerve Block on Scapular Fracture Surgery. J
+Healthc Eng. 2021 Oct 7;2021:6231116. doi: 10.1155/2021/6231116. PMID: 34659690;
+PMCID: PMC8516573.
+
+199: Wang Y, Morrell G, Heibrun ME, Payne A, Parker DL. 3D multi-parametric
+breast MRI segmentation using hierarchical support vector machine with coil
+sensitivity correction. Acad Radiol. 2013 Feb;20(2):137-47. doi:
+10.1016/j.acra.2012.08.016. Epub 2012 Oct 23. PMID: 23099241; PMCID: PMC3567300.
+
+200: Madabhushi A, Feldman MD, Metaxas DN, Tomaszeweski J, Chute D. Automated
+detection of prostatic adenocarcinoma from high-resolution ex vivo MRI. IEEE
+Trans Med Imaging. 2005 Dec;24(12):1611-25. doi: 10.1109/TMI.2005.859208. PMID:
+16350920.
+
+201: Dwan D, Lamb LR, Haver HL, Giess CS, Fishman MDC, DiPiro PJ, Bahl M.
+Diagnostic accuracy of an artificial intelligence-based breast ultrasound tool
+in pregnant and lactating patients. Eur Radiol. 2026 Jun 10. doi:
+10.1007/s00330-026-12659-5. Epub ahead of print. PMID: 42268305.
+
+202: Pistore G, Ambrosio L, Di Guardo A, Panebianco AR, Di Lella G, Conforti C,
+Pellacani G, Moro F, Marchetti P, Abeni D, Fania L, Ricci F. Non-Invasive
+Assessment of Treatment Response in Actinic Keratosis: A Clinically Oriented
+Multimodal Review. Cancers (Basel). 2026 Feb 22;18(4):708. doi:
+10.3390/cancers18040708. PMID: 41749961; PMCID: PMC12939753.
+
+203: Zhong J, Tian W, Xie Y, Liu Z, Ou J, Tian T, Zhang L. PMFSNet: Polarized
+multi-scale feature self-attention network for lightweight medical image
+segmentation. Comput Methods Programs Biomed. 2025 Apr;261:108611. doi:
+10.1016/j.cmpb.2025.108611. Epub 2025 Jan 25. PMID: 39892086.
+
+204: Kwon MR, Kim SH, Park GE, Mun HS, Kang BJ, Kim YT, Youn I. Artificial
+intelligence-based tumor size measurement on mammography: agreement with
+pathology and comparison with human readers' assessments across multiple imaging
+modalities. Radiol Med. 2025 Sep;130(9):1339-1351. doi:
+10.1007/s11547-025-02033-8. Epub 2025 Jun 20. Erratum in: Radiol Med. 2025
+Nov;130(11):1897. doi: 10.1007/s11547-025-02059-y. PMID: 40540124.
+
+205: Zhou P, Qian H, Zhu P, Ben J, Chen G, Chen Q, Chen L, Chen J, He Y. Machine
+learning for predicting neoadjuvant chemotherapy effectiveness using ultrasound
+radiomics features and routine clinical data of patients with breast cancer.
+Front Oncol. 2025 Jan 14;14:1485681. doi: 10.3389/fonc.2024.1485681. PMID:
+39927116; PMCID: PMC11803464.
+
+206: Mishra M, Nair KK, Regi HS, Minhaj A, Shetty D, Martin A, Ganesan A. Next-
+generation wearable, ingestible, and implantable bioelectronics for health
+monitoring, therapy, and human-machine interaction. Biomed Microdevices. 2026
+Mar 24;28(2):25. doi: 10.1007/s10544-026-00809-x. PMID: 41874732.
+
+207: He Z, Liu Y, Jiang Q, Hou F, Xu B. Application Value of Radiomics-Based
+Machine Learning for Preoperative Risk Stratification of Bladder Cancer:
+Systematic Review and Meta-Analysis. J Med Internet Res. 2026 Jun 12;28:e81084.
+doi: 10.2196/81084. PMID: 42285048; PMCID: PMC13263024.
+
+208: Zhu M, Pi Y, Jiang Z, Wu Y, Bu H, Bao J, Chen Y, Zhao L, Peng Y.
+Application of deep learning to identify ductal carcinoma <i>in situ</i> and
+microinvasion of the breast using ultrasound imaging. Quant Imaging Med Surg.
+2022 Sep;12(9):4633-4646. doi: 10.21037/qims-22-46. PMID: 36060588; PMCID:
+PMC9403599.
+
+209: Wu D, Fedorov Kukk A, Panzer R, Emmert S, Roth B. In Vivo Differentiation
+of Cutaneous Melanoma From Benign Nevi With Dual-Modal System of Optical
+Coherence Tomography and Raman Spectroscopy. J Biophotonics. 2025
+Sep;18(9):e70040. doi: 10.1002/jbio.70040. Epub 2025 Apr 21. PMID: 40258385;
+PMCID: PMC12411026.
+
+210: Fan Y, Sun K, Xiao Y, Zhong P, Meng Y, Yang Y, Du Z, Fang J. Deep learning
+predicts HER2 status in invasive breast cancer from multimodal ultrasound and
+MRI. Biomol Biomed. 2025 May 16;25(10):2243-2251. doi: 10.17305/bb.2025.12475.
+PMID: 40392960; PMCID: PMC12451978.
+
+211: Quispe P, Romero SE, Castaneda B. Feasibility of a Deep Learning approach
+to estimate Shear Wave Speed using the framework of Reverberant Shear Wave
+Elastography: A numerical simulation study. Annu Int Conf IEEE Eng Med Biol Soc.
+2022 Jul;2022:3895-3898. doi: 10.1109/EMBC48229.2022.9871532. PMID: 36085802.
+
+212: Kang BI, Kim A, Kim S. Advancing Patient Care: Innovative Use of Near-
+Infrared Spectroscopy for Monitoring Urine Volume in Neurogenic Bladder. Int
+Neurourol J. 2023 May;27(Suppl 1):S27-33. doi: 10.5213/inj.2346100.050. Epub
+2023 May 31. PMID: 37280757; PMCID: PMC10263163.
+
+213: Zeng W, Thatayatikom A, Winn N, Lovelace TC, Bhattacharyya I, Schrepfer T,
+Shah A, Gonik R, Benos PV, Cha S. The Florida Scoring System for stratifying
+children with suspected Sjögren's disease: a cross-sectional machine learning
+study. Lancet Rheumatol. 2024 May;6(5):e279-e290. doi:
+10.1016/S2665-9913(24)00059-6. PMID: 38658114; PMCID: PMC11261574.
+
+214: Lin Q, Zhou Y, Shi S, Zhang Y, Yin S, Liu X, Peng Q, Huang S, Jiang Y, Cui
+C, She R, Xu J, Dong F. How much can AI see in early pregnancy: A multi-center
+study of fetus head characterization in week 10-14 in ultrasound using deep
+learning. Comput Methods Programs Biomed. 2022 Nov;226:107170. doi:
+10.1016/j.cmpb.2022.107170. Epub 2022 Oct 2. PMID: 36272307.
+
+215: Xu Z, Ye J, Zhong H, Chen J, Wang H, Zhang X, Lyu G, Su S. Machine learning
+model for predicting epidermal growth factor receptor expression status in
+breast cancer using ultrasound radiomics. Front Oncol. 2025 Oct 17;15:1683164.
+doi: 10.3389/fonc.2025.1683164. PMID: 41179692; PMCID: PMC12575132.
+
+216: Coleman DJ, Silverman RH, Rondeau MJ, Boldt HC, Lloyd HO, Lizzi FL,
+Weingeist TA, Chen X, Vangveeravong S, Folberg R. Noninvasive in vivo detection
+of prognostic indicators for high-risk uveal melanoma: ultrasound parameter
+imaging. Ophthalmology. 2004 Mar;111(3):558-64. doi:
+10.1016/j.ophtha.2003.06.021. PMID: 15019336.
+
+217: Vitral GLN, Romanelli RMC, Reis ZSN, Guimarães RN, Dias I, Mussagy N,
+Taunde S, Neves GS, de São José CN, Pantaleão AN, Pappa GL, Gaspar JS, de Aguiar
+RAPL. Gestational age assessed by optical skin reflection in low-birth-weight
+newborns: Applications in classification at birth. Front Pediatr. 2023 Mar
+28;11:1141894. doi: 10.3389/fped.2023.1141894. PMID: 37056944; PMCID:
+PMC10086374.
+
+218: Yap LW, Levin A, Jiang Y, Nhu D, Gong S, Warty R, Vera Anaya D, Li Q, Lu Y,
+Gao R, Zhang X, Ilyas T, Smith V, Thomas A, Wibrianto A, Zhang Y, Limas J, A
+McCracken S, Morris JM, Mol BW, Wallace EM, Ju AL, Ge Z, Marzbanrad F, Cheng W.
+An intelligent, compact wearable pressure-strain combo sensor system for
+continuous fetal movement monitoring. Sci Adv. 2025 Nov 28;11(48):eady2661. doi:
+10.1126/sciadv.ady2661. Epub 2025 Nov 26. PMID: 41296871; PMCID: PMC12652324.
+
+219: Brzezinski RY, Levin-Kotler L, Rabin N, Ovadia-Blechman Z, Zimmer Y,
+Sternfeld A, Finchelman JM, Unis R, Lewis N, Tepper-Shaihov O, Naftali-Shani N,
+Balint-Lahat N, Safran M, Ben-Ari Z, Grossman E, Leor J, Hoffer O. Automated
+thermal imaging for the detection of fatty liver disease. Sci Rep. 2020 Sep
+23;10(1):15532. doi: 10.1038/s41598-020-72433-5. PMID: 32968123; PMCID:
+PMC7511937.
+
+220: Suri H, Lentz PC, Leske DA, Mousavi M, D'Souza HS, Qureshi MB, Iezzi R,
+Varatharajah Y, Dalvin LA. Development of a deep learning model to classify
+choroidal melanoma risk factors based on color fundus photographs. AJO Int. 2025
+Dec 11;2(4):100167. doi: 10.1016/j.ajoint.2025.100167. Epub 2025 Sep 8. PMID:
+41567739; PMCID: PMC12818915.
+
+221: Kinoshita T, Takahashi T, Murayama R, Nakagami G, Sanada H, Noguchi H.
+Creation of the Forearm 3D-Model with Veins from Transversal Ultrasonography
+Image Sequence. Annu Int Conf IEEE Eng Med Biol Soc. 2023 Jul;2023:1-4. doi:
+10.1109/EMBC40787.2023.10340868. PMID: 38083707.
+
+222: Montaha S, Azam S, Rafid AKMRH, Hasan MZ, Karim A, Hasib KM, Patel SK,
+Jonkman M, Mannan ZI. MNet-10: A robust shallow convolutional neural network
+model performing ablation study on medical images assessing the effectiveness of
+applying optimal data augmentation technique. Front Med (Lausanne). 2022 Aug
+16;9:924979. doi: 10.3389/fmed.2022.924979. PMID: 36052321; PMCID: PMC9424498.
+
+223: Fang J, Hong T, Tong Y, Ren Z, Miao C, Wen S, Du M, Wang M, Lin Y, Zhou J.
+A multimodal deep learning classifier for prediction of HER2-low expression in
+triple-negative breast cancer. BMC Med Imaging. 2026 Jul 6. doi:
+10.1186/s12880-026-02419-8. Epub ahead of print. PMID: 42410534.
+
+224: Seoni S, Shahini A, Meiburger KM, Marzola F, Rotunno G, Acharya UR,
+Molinari F, Salvi M. All you need is data preparation: A systematic review of
+image harmonization techniques in Multi-center/device studies for medical
+support systems. Comput Methods Programs Biomed. 2024 Jun;250:108200. doi:
+10.1016/j.cmpb.2024.108200. Epub 2024 Apr 23. PMID: 38677080.
+
+225: Tahmasebzadeh A, Yazdani E, Mirshahi R, Naseripour M, Sadeghi M. Machine
+Learning-Based Prediction of Local Recurrence in Uveal Melanoma After
+Ruthenium-106 Plaque Brachytherapy Using Ultrasound Images and Clinical Data.
+Clin Oncol (R Coll Radiol). 2025 Dec;48:103960. doi: 10.1016/j.clon.2025.103960.
+Epub 2025 Oct 14. PMID: 41175783.
+
+226: Guo Y, Wu J, Wang Y, Jin Y. Development and Validation of an Ultrasound-
+Based Radiomics Nomogram for Identifying HER2 Status in Patients with Breast
+Carcinoma. Diagnostics (Basel). 2022 Dec 12;12(12):3130. doi:
+10.3390/diagnostics12123130. PMID: 36553137; PMCID: PMC9776855.
+
+227: Dadzie AK, Iddir SP, Abtahi M, Ebrahimi B, Rahimi M, Ganesh S, Son T,
+Heiferman MJ, Yao X. Attention-Based Multimodal Deep Learning for Uveal Melanoma
+Classification Using Ultra-Widefield Fundus Images and Ocular Ultrasound.
+Ophthalmol Sci. 2025 Oct 27;6(2):100985. doi: 10.1016/j.xops.2025.100985. PMID:
+41439217; PMCID: PMC12719142.
+
+228: Alcaraz MR, Espinosa-Mansilla A, Durán-Merás I, Muñoz de la Peña A. An
+optimized methodology for the determination of multiclass organic ultraviolet
+sunscreens and metabolites in human milk through chromatographic and chemometric
+resolution. Talanta. 2024 Apr 1;270:125560. doi: 10.1016/j.talanta.2023.125560.
+Epub 2023 Dec 15. PMID: 38128275.
+
+229: Wang M, Chen H, Mao L, Jiao W, Han H, Zhang Q. C<sup>5</sup>-net: Cross-
+organ cross-modality cswin-transformer coupled convolutional network for dual
+task transfer learning in lymph node segmentation and classification. Comput Med
+Imaging Graph. 2025 Sep;124:102633. doi: 10.1016/j.compmedimag.2025.102633. Epub
+2025 Aug 11. PMID: 40819604.
+
+230: Wiskin J, Malik B, Natesan R, Lenox M. Quantitative assessment of breast
+density using transmission ultrasound tomography. Med Phys. 2019
+Jun;46(6):2610-2620. doi: 10.1002/mp.13503. Epub 2019 Apr 22. PMID: 30893476;
+PMCID: PMC6618090.
+
+231: Montaha S, Rahman R, Ghosh T, Sheikhi F, Maleki F. Federated Pseudo-
+Labeling: A Data-Centric, Privacy-Preserving Framework for Medical Image
+Segmentation. IEEE J Biomed Health Inform. 2025 Dec;29(12):8823-8830. doi:
+10.1109/JBHI.2025.3622934. PMID: 41359701.
+
+232: Zhu M, Zhang L, Wang L, Li D, Zhang J, Yi Z. Robust co-teaching learning
+with consistency-based noisy label correction for medical image classification.
+Int J Comput Assist Radiol Surg. 2023 Apr;18(4):675-683. doi:
+10.1007/s11548-022-02799-6. Epub 2022 Nov 27. PMID: 36437387.
+
+233: Lee J, Kang BJ, Kim SH, Park GE. Evaluation of Computer-Aided Detection
+(CAD) in Screening Automated Breast Ultrasound Based on Characteristics of CAD
+Marks and False-Positive Marks. Diagnostics (Basel). 2022 Feb 24;12(3):583. doi:
+10.3390/diagnostics12030583. PMID: 35328136; PMCID: PMC8947351.
+
+234: Demir Senoglu G, Kara Timucin E, Kırısoglu S. Evaluation of anthropometric
+and ultrasonographic measurements with different machine learning methods in
+predicting difficult intubation: a prospective observational study. BMC
+Anesthesiol. 2025 Oct 14;25(1):496. doi: 10.1186/s12871-025-03370-x. PMID:
+41087931; PMCID: PMC12522595.
+
+235: Forsyth A, Prajapati S, Frasier KM, Kriebel C, Jackson T, Batista R, Jean
+F, Ezekwe U. Diagnostic Disparities in Erythema Visibility: A Call to Redefine
+Inflammatory Assessment in Diverse Skin Tones. Cureus. 2025 Oct
+19;17(10):e94930. doi: 10.7759/cureus.94930. PMID: 41262823; PMCID: PMC12626340.
+
+236: Sun Y, Zhang L, Dong D, Li X, Wang J, Yin C, Poon LC, Tian J, Wu Q.
+Application of an individualized nomogram in first-trimester screening for
+trisomy 21. Ultrasound Obstet Gynecol. 2021 Jul;58(1):56-66. doi:
+10.1002/uog.22087. PMID: 32438493; PMCID: PMC8362158.
+
+237: Zhang X, Li H, Wang C, Cheng W, Zhu Y, Li D, Jing H, Li S, Hou J, Li J, Li
+Y, Zhao Y, Mo H, Pang D. Evaluating the Accuracy of Breast Cancer and Molecular
+Subtype Diagnosis by Ultrasound Image Deep Learning Model. Front Oncol. 2021 Mar
+5;11:623506. doi: 10.3389/fonc.2021.623506. PMID: 33747937; PMCID: PMC7973262.
+
+238: Bąk A, Segen J, Wereszczyński K, Mielnik P, Fojcik M, Kulbacki M. Detection
+of linear features including bone and skin areas in ultrasound images of joints.
+PeerJ. 2018 Mar 15;6:e4411. doi: 10.7717/peerj.4411. PMID: 29576939; PMCID:
+PMC5857350.
+
+239: Bignotti B, Ghio M, Panico N, Tagliafico G, Martinoli C, Tagliafico A.
+High-resolution ultrasound of peripheral nerves in systemic sclerosis: a pilot
+study of computer-aided quantitative assessment of nerve density. Skeletal
+Radiol. 2015 Dec;44(12):1761-7. doi: 10.1007/s00256-015-2230-5. Epub 2015 Aug
+12. PMID: 26264220.
+
+240: Looby K, Herickhoff CD, Sandino C, Zhang T, Vasanawala S, Dahl JJ.
+Unsupervised clustering method to convert high-resolution magnetic resonance
+volumes to three-dimensional acoustic models for full-wave ultrasound
+simulations. J Med Imaging (Bellingham). 2019 Jul;6(3):037001. doi:
+10.1117/1.JMI.6.3.037001. Epub 2019 Jul 22. PMID: 31338389; PMCID: PMC6643101.
+
+241: Wan N, Zhang P, Liu Z, Li Z, Niu W, Rui X, Wang S, Seong M, He P, Liang S,
+Zhou J, Yang R, Chen SL. Implantable QR code subcutaneous microchip using
+photoacoustic and ultrasound microscopy for secure and convenient individual
+identification and authentication. Photoacoustics. 2023 May 9;31:100504. doi:
+10.1016/j.pacs.2023.100504. PMID: 37214429; PMCID: PMC10196719.
+
+242: Wang SQ, Hashemi P. Noninvasive imaging technologies in the diagnosis of
+melanoma. Semin Cutan Med Surg. 2010 Sep;29(3):174-84. doi:
+10.1016/j.sder.2010.06.006. PMID: 21051011.
+
+243: Nica RE, Șerbănescu MS, Florescu LM, Camen GC, Streba CT, Gheonea IA. Deep
+Learning: a Promising Method for Histological Class Prediction of Breast Tumors
+in Mammography. J Digit Imaging. 2021 Oct;34(5):1190-1198. doi:
+10.1007/s10278-021-00508-4. Epub 2021 Sep 10. PMID: 34505960; PMCID: PMC8554900.
+
+244: Liu T, Ma H, Li P, Wang A, Chen W, Liu C, Li B, Ta D. High-fidelity three-
+dimensional reconstruction of musculoskeletal tissues via diffusion based
+ultrasonic computed tomography. Med Image Anal. 2026 Jul;112:104141. doi:
+10.1016/j.media.2026.104141. Epub 2026 May 23. PMID: 42214247.
+
+245: Iker E, Mayfield CK, Gould DJ, Patel KM. Characterizing Lower Extremity
+Lymphedema and Lipedema with Cutaneous Ultrasonography and an Objective
+Computer-Assisted Measurement of Dermal Echogenicity. Lymphat Res Biol. 2019
+Oct;17(5):525-530. doi: 10.1089/lrb.2017.0090. Epub 2019 Jan 7. PMID: 30615553.
+
+246: Bravo-Gonzalez A, Dominguez-Ruiz P, Buitrago-Gonzalez MJ, Bach B, Chen Z,
+Suarez D, Arruda MP, Lima RV, Del Valle GS, Zinher MT, de Menezes E Souza Filho
+CE, Salazar PF. Imaging-based machine learning for the diagnosis and prognosis
+of uveal melanoma: a systematic review and meta analysis. Graefes Arch Clin Exp
+Ophthalmol. 2026 Aug;264(8):2329-2342. doi: 10.1007/s00417-026-07230-3. Epub
+2026 Apr 18. PMID: 41999415; PMCID: PMC13490244.
+
+247: Raffaele A, Mauri V, Negrini M, Negrello E, Parigi GB, Avolio L,
+Pietrabissa A, Auricchio F, Marconi S. Elaboration and development of a
+realistic 3D printed model for training in ultrasound-guided placement of
+peripheral central venous catheter in children. J Vasc Access. 2024
+Nov;25(6):1767-1774. doi: 10.1177/11297298231187005. Epub 2023 Jul 12. PMID:
+37434535; PMCID: PMC11539528.
+
+248: Emery SP, Kreutzer J, Sherman FR, Fujimoto KL, Jaramaz B, Nikou C, Tobita
+K, Keller BB. Computer-assisted navigation applied to fetal cardiac
+intervention. Int J Med Robot. 2007 Sep;3(3):187-98. doi: 10.1002/rcs.145. PMID:
+17729376.
+
+249: Yin C, Wang S, Pan D. Computed Tomography Image Characteristics before and
+after Interventional Treatment of Children's Lymphangioma under Artificial
+Intelligence Algorithm. Comput Math Methods Med. 2021 Dec 9;2021:2673013. doi:
+10.1155/2021/2673013. Retraction in: Comput Math Methods Med. 2023 Nov
+1;2023:9802067. doi: 10.1155/2023/9802067. PMID: 34925537; PMCID: PMC8677374.
+
+250: Surkov YI, Serebryakova IA, Kuzinova YK, Konopatskova OM, Safronov DV,
+Kapralov SV, Genina EA, Tuchin VV. Multimodal Method for Differentiating Various
+Clinical Forms of Basal Cell Carcinoma and Benign Neoplasms In Vivo. Diagnostics
+(Basel). 2024 Jan 17;14(2):202. doi: 10.3390/diagnostics14020202. PMID:
+38248078; PMCID: PMC10814941.
+
+251: Chen F, Liu J, Wan P, Liao H, Kong W. Immunohistochemical index prediction
+of breast tumor based on multi-dimension features in contrast-enhanced
+ultrasound. Med Biol Eng Comput. 2020 Jun;58(6):1285-1295. doi:
+10.1007/s11517-020-02164-2. Epub 2020 Mar 30. PMID: 32232794.
+
+252: Yang F, Qin W, Xie Y, Wen T, Gu J. A shape-optimized framework for kidney
+segmentation in ultrasound images using NLTV denoising and DRLSE. Biomed Eng
+Online. 2012 Oct 30;11:82. doi: 10.1186/1475-925X-11-82. PMID: 23110664; PMCID:
+PMC3585889.
+
+253: Deng JY, Wei JP, Maimaitiyili N, Li XY, Zheng QT. Multimodal Non-Invasive
+Skin Imaging in Dermatology: Current Modalities, Clinical Applications, and
+Future Integration. Diagnostics (Basel). 2026 Jul 9;16(14):2149. doi:
+10.3390/diagnostics16142149. PMID: 42510013; PMCID: PMC13407693.
+
+254: Chen Q, Hu M, Bao F, Zhao Z, Ren W, Zhao H. Classification of breast cancer
+molecular subtypes based on contrast-enhanced ultrasound and superb
+microvascular imaging using machine learning approach. Gland Surg. 2025 Sep
+30;14(9):1728-1743. doi: 10.21037/gs-2025-220. Epub 2025 Sep 26. PMID: 41142553;
+PMCID: PMC12552557.
+
+255: Michelangeli F. Imaging the unimaginable: Medical imaging in the realm of
+photography. Clin Dermatol. 2019 Jan-Feb;37(1):38-46. doi:
+10.1016/j.clindermatol.2018.09.008. Epub 2018 Sep 15. PMID: 30554620.
+
+256: Kaiserman I, Kaiserman N, Pe'er J. Long term ultrasonic follow up of
+choroidal naevi and their transformation to melanomas. Br J Ophthalmol. 2006
+Aug;90(8):994-8. doi: 10.1136/bjo.2006.090738. Epub 2006 May 3. PMID: 16672327;
+PMCID: PMC1857217.
+
+257: Jin C, Pei B, Zhou R, Cao S, Sun Y, Lin Z, Zhao M, Zheng Y, Wang Q, Cao M,
+Yan J, Jiang H. A two-step deep learning framework for predicting difficult
+video laryngoscopy from ultrasound images: a prospective cohort study. BMC
+Anesthesiol. 2026 Jun 1;26(1):464. doi: 10.1186/s12871-026-03948-z. PMID:
+42226131; PMCID: PMC13435595.
+
+258: Alrugaibah M, Washington TL, Yagiz Y, Gu L. Ultrasound-assisted extraction
+of phenolic acids, flavonols, and flavan-3-ols from muscadine grape skins and
+seeds using natural deep eutectic solvents and predictive modelling by
+artificial neural networking. Ultrason Sonochem. 2021 Nov;79:105773. doi:
+10.1016/j.ultsonch.2021.105773. Epub 2021 Oct 8. PMID: 34649165; PMCID:
+PMC8517384.
+
+259: Razaq S, Ricci V, Ricci C, Özçakar L. Ultrasound-Guided Hydro-Dissection of
+the Superficial Fascia for Cervical Myofascial Pain: A Case Series. J Clin
+Ultrasound. 2025 May;53(4):940-945. doi: 10.1002/jcu.23947. Epub 2025 Feb 20.
+PMID: 39973285; PMCID: PMC12087728.
+
+260: Zhuang J, Chen Y, Zheng W, Lian G, Zhu Y, Zhang H, Fan X, Fu F, Ye Q.
+Prediction of HER2 Expression in Urothelial Carcinoma of the Bladder: Are
+Ultrasound-based Radiomic Features Significant? Ultrasound Med Biol. 2026
+Jan;52(1):190-200. doi: 10.1016/j.ultrasmedbio.2025.09.013. Epub 2025 Oct 11.
+PMID: 41077493.
+
+261: Haussmann A, Volkmann ER. Advanced imaging in systemic sclerosis:
+distinguishing activity from damage across organ systems. Curr Opin Rheumatol.
+2026 Aug 6. doi: 10.1097/BOR.0000000000001182. Epub ahead of print. PMID:
+42559703.
+
+262: Cheng X, Shen L, Tang X, Ma F. Development and evaluation of a predictive
+model for postoperative recurrence and metastasis in breast cancer using an
+artificial intelligence ultrasound breast system. Am J Transl Res. 2025 May
+15;17(5):4038-4053. doi: 10.62347/MECC4748. PMID: 40535677; PMCID: PMC12170407.
+
+263: Parratte S, Kilian P, Pauly V, Champsaur P, Argenson JN. The use of
+ultrasound in acquisition of the anterior pelvic plane in computer-assisted
+total hip replacement: a cadaver study. J Bone Joint Surg Br. 2008
+Feb;90(2):258-63. doi: 10.1302/0301-620X.90B2.19950. PMID: 18256101.
+
+264: Florea C, Florea L, Vertan C. Top-k Bottom All but <i>σ</i> Loss Strategy
+for Medical Image Segmentation. Diagnostics (Basel). 2025 Aug 29;15(17):2189.
+doi: 10.3390/diagnostics15172189. PMID: 40941675; PMCID: PMC12428111.
+
+265: Wu J, Guo Y, Wu C, Wang Z, Sun Y, Xu D. Integration of Longitudinal and
+Transverse Radiomics from Ultrasound Images with Clinical Factors for HER-2
+Status Prediction in Invasive Breast Cancer Patients. J Invest Surg. 2024
+Dec;37(1):2436050. doi: 10.1080/08941939.2024.2436050. Epub 2024 Dec 8. PMID:
+39647167.
+
+266: Zhu Y, Yu T, Li H, Shu X. DIG-MambaNet: A Dual-Path Interactive Guided
+Mamba Network for Medical Image Segmentation. J Imaging. 2026 Jul 28;12(8):343.
+doi: 10.3390/jimaging12080343. PMID: 42645942; PMCID: PMC13514354.
+
+267: Wang K, Yang X, Yang S, Du X, Shi R, Bai W, Wang Y. A diagnostic test of
+two-dimensional ultrasonic feature extraction based on artificial intelligence
+combined with blood flow Adler classification and contrast-enhanced ultrasound
+for predicting <i>HER-2</i>-positive breast cancer. Transl Cancer Res. 2025 Jan
+31;14(1):640-650. doi: 10.21037/tcr-24-2182. Epub 2025 Jan 21. PMID: 39974394;
+PMCID: PMC11833378.
+
+268: Uhl JF, Cornu-Thénard A, Carpentier PH, Widmer MT, Partsch H, Antignani PL.
+Clinical and hemodynamic significance of corona phlebectatica in chronic venous
+disorders. J Vasc Surg. 2005 Dec;42(6):1163-8. doi: 10.1016/j.jvs.2005.08.031.
+PMID: 16376209.
+
+269: Luo S, Chen X, Yao M, Ying Y, Huang Z, Zhou X, Liao Z, Zhang L, Hu N, Huang
+C. Intratumoral and peritumoral ultrasound-based radiomics for preoperative
+prediction of HER2-low breast cancer: a multicenter retrospective study.
+Insights Imaging. 2025 Mar 7;16(1):53. doi: 10.1186/s13244-025-01934-6. PMID:
+40053171; PMCID: PMC11889314.
+
+270: Watson JB, Quintero-Peña C, Moise AC, Lumsden AB, Corr SJ. From Data to
+Decision: A Comprehensive Review of Real-Time Analytics and Smart Technologies
+in the Surgical Suite. Methodist Debakey Cardiovasc J. 2025 Oct 7;21(5):5-15.
+doi: 10.14797/mdcvj.1658. PMID: 41078851; PMCID: PMC12513365.
+
+271: Goetze E, Kämmerer PW, Al-Nawas B, Moergel M. Integration of Perforator
+Vessels in CAD/CAM Free Fibula Graft Planning: A Clinical Feasibility Study. J
+Maxillofac Oral Surg. 2020 Mar;19(1):61-66. doi: 10.1007/s12663-019-01215-y.
+Epub 2019 Apr 8. PMID: 31988566; PMCID: PMC6954946.
+
+272: Lin Z, Huang F, Wei L, Liao X, Gao Y. Predicting Human Epidermal Growth
+Factor Receptor 2 Expression in Breast Cancer Based on Radiomics of MRI Habitat
+and US. Breast Cancer (Dove Med Press). 2025 Aug 15;17:711-725. doi:
+10.2147/BCTT.S535697. PMID: 40836946; PMCID: PMC12364004.
+
+273: Cui H, Sun Y, Zhao D, Zhang X, Kong H, Hu N, Wang P, Zuo X, Fan W, Yao Y,
+Fu B, Tian J, Wu M, Gao Y, Ning S, Zhang L. Radiogenomic analysis of prediction
+HER2 status in breast cancer by linking ultrasound radiomic feature module with
+biological functions. J Transl Med. 2023 Jan 24;21(1):44. doi:
+10.1186/s12967-022-03840-7. PMID: 36694240; PMCID: PMC9875533.
+
+274: Deng T, Liang J, Yan C, Ni M, Xiang H, Li C, Ou J, Lin Q, Liu L, Tang G,
+Luo R, An X, Gao Y, Lin X. Development and validation of ultrasound-based
+radiomics model to predict germline BRCA mutations in patients with breast
+cancer. Cancer Imaging. 2024 Feb 29;24(1):31. doi: 10.1186/s40644-024-00676-w.
+PMID: 38424620; PMCID: PMC10905812.
+
+275: Wang J, Gu Y, Zhan Y, Li R, Bi Y, Gao L, Wu X, Shao J, Chen Y, Ye L, Peng
+M. Intratumoral and peritumoral ultrasound radiomics analysis for predicting
+HER2-low expression in HER2-negative breast cancer patients: a retrospective
+analysis of dual-central study. Discov Oncol. 2025 Jun 5;16(1):1007. doi:
+10.1007/s12672-025-02752-4. PMID: 40471472; PMCID: PMC12141173.
+
+276: Li JW, Cao YC, Zhao ZJ, Shi ZT, Duan XQ, Chang C, Chen JG. Prediction for
+pathological and immunohistochemical characteristics of triple-negative invasive
+breast carcinomas: the performance comparison between quantitative and
+qualitative sonographic feature analysis. Eur Radiol. 2022 Mar;32(3):1590-1600.
+doi: 10.1007/s00330-021-08224-x. Epub 2021 Sep 14. Erratum in: Eur Radiol. 2022
+Apr;32(4):2861. doi: 10.1007/s00330-021-08345-3. PMID: 34519862.
+
+277: Bayat M, Alizad A, Tamminga R, Pulido JS, Fatemi M. Imaging errors in
+localization of COMS-type plaques in choroidal melanoma brachytherapy. Invest
+Ophthalmol Vis Sci. 2013 Oct 21;54(10):6852-60. doi: 10.1167/iovs.12-11499.
+PMID: 24052637.
+
+278: Uppal D, Prakash S. CLT-MambaSeg: An integrated model of Convolution,
+Linear Transformer and Multiscale Mamba for medical image segmentation. Comput
+Biol Med. 2025 Sep;196(Pt B):110736. doi: 10.1016/j.compbiomed.2025.110736. Epub
+2025 Jul 26. PMID: 40716230.
+
+279: Huber S, Danes J, Zuna I, Teubner J, Medl M, Delorme S. Relevance of
+sonographic B-mode criteria and computer-aided ultrasonic tissue
+characterization in differential/diagnosis of solid breast masses. Ultrasound
+Med Biol. 2000 Oct;26(8):1243-52. doi: 10.1016/s0301-5629(00)00274-x. PMID:
+11120360.
+
+280: Ji Q, Wang F, He Q, Li Y, Ma Y. Effect of Low-Dose Dexmedetomidine Combined
+with Lumbosacral Plexus Block Guided by Ultrasound Imaging Based on Image
+Segmentation Algorithm in Fracture Surgery. Comput Intell Neurosci. 2022 May
+30;2022:8063874. doi: 10.1155/2022/8063874. Retraction in: Comput Intell
+Neurosci. 2023 Sep 27;2023:9860325. doi: 10.1155/2023/9860325. PMID: 35676952;
+PMCID: PMC9170447.
+
+281: Zhang Q, Yuan Z, Song R, Xue H, Tu J, Fan Z, Guo X, Zheng Y, Zhang D.
+Optimized acoustic streaming generated at oblique incident angles to improve
+ultrasound thrombolysis effect. Med Phys. 2022 Sep;49(9):5728-5741. doi:
+10.1002/mp.15874. Epub 2022 Jul 26. PMID: 35860901.
+
+282: Zhang X, Zhang X, Zhu S, Ao N, Cao Y, Yang G. Construction of an ultrasound
+feature-based diagnostic model for predicting triple-negative breast cancer
+using 108 machine learning algorithm combinations. J Clin Imaging Sci. 2026 Jun
+29;16:25. doi: 10.25259/JCIS_283_2025. PMID: 42404642; PMCID: PMC13331217.
+
+283: Vyas S, Meyerle J, Burlina P. Non-invasive estimation of skin thickness
+from hyperspectral imaging and validation using echography. Comput Biol Med.
+2015 Feb;57:173-81. doi: 10.1016/j.compbiomed.2014.12.010. Epub 2014 Dec 23.
+PMID: 25561244.
+
+284: Filho EM, Furini FR, Pereira BP, Chaves SR, Oliveira AT, Behr PEB, Kalil
+LP, Collet C, Arai T, Correia de Lima V. Chronic Total Occlusion Recanalization
+in a 14-Year-Old Girl With Pseudoxanthoma Elasticum: IVUS-Guided Stentless
+Strategy. JACC Case Rep. 2026 Aug 12;31(32):108872. doi:
+10.1016/j.jaccas.2026.108872. Epub 2026 Jun 13. PMID: 42288999; PMCID:
+PMC13480282.
+
+285: Du Y, Li F, Zhang M, Pan J, Wu T, Zheng Y, Chen J, Yao M, Kuang Y, Wu R,
+Diao X. The Emergence of the Potential Therapeutic Targets: Ultrasound-Based
+Radiomics in the Prediction of Human Epidermal Growth Factor Receptor 2-Low
+Breast Cancer. Acad Radiol. 2024 Jul;31(7):2674-2683. doi:
+10.1016/j.acra.2024.01.023. Epub 2024 Feb 2. PMID: 38309977.
+
+286: Finger PT, Romero JM, Rosen RB, Iezzi R, Emery R, Berson A. Three-
+dimensional ultrasonography of choroidal melanoma: localization of radioactive
+eye plaques. Arch Ophthalmol. 1998 Mar;116(3):305-12. doi:
+10.1001/archopht.116.3.305. PMID: 9514483.
+
+287: Ouyang Q, Chen Q, Zhang L, Lin Q, Yan J, Sun H, Xu R. Construction of a
+risk prediction model for axillary lymph node metastasis in breast cancer based
+on gray-scale ultrasound and clinical pathological features. Front Oncol. 2024
+Nov 19;14:1415584. doi: 10.3389/fonc.2024.1415584. PMID: 39628998; PMCID:
+PMC11611871.
+
+288: Zhang Z, Tian C, Shi L, Zhou L, Zhang K, Pang J, Wang Q, Yang H. U-CBAMNet:
+an attention-guided deep learning model for accurate and explainable prediction
+of HER2 expression from breast ultrasound cine videos. BMC Med Imaging. 2026 May
+21;26(1):353. doi: 10.1186/s12880-026-02383-3. PMID: 42168900; PMCID:
+PMC13371129.
+
+289: Bene I, Ciurea AI, Ciortea CA, Ștefan PA, Ciule LD, Lupean RA, Dudea SM.
+Radiomic Signatures Derived from Hybrid Contrast-Enhanced Ultrasound Images
+(CEUS) for the Assessment of Histological Characteristics of Breast Cancer: A
+Pilot Study. Cancers (Basel). 2022 Aug 12;14(16):3905. doi:
+10.3390/cancers14163905. PMID: 36010897; PMCID: PMC9405598.
+
+290: Leitner C, Benatti S, Keller K, Cossettini A, Kartsch V, Penasso H, Benini
+L, Greco F, Baumgartner C. UStEMG: an Ultrasound Transparent Tattoo-based sEMG
+System for Unobtrusive Parallel Acquisitions of Muscle Electro-mechanics. Annu
+Int Conf IEEE Eng Med Biol Soc. 2021 Nov;2021:7077-7082. doi:
+10.1109/EMBC46164.2021.9630034. PMID: 34892732.
+
+291: Gosal JS, Tiwari S, Sharma T, Agrawal M, Garg M, Mahal S, Bhaskar S, Sharma
+RK, Janu V, Jha DK. Simulation of surgery for supratentorial gliomas in virtual
+reality using a 3D volume rendering technique: a poor man's neuronavigation.
+Neurosurg Focus. 2021 Aug;51(2):E23. doi: 10.3171/2021.5.FOCUS21236. PMID:
+34333461.
+
+292: Cupek R, Ziębiński A. Automated assessment of joint synovitis activity from
+medical ultrasound and power doppler examinations using image processing and
+machine learning methods. Reumatologia. 2016;54(5):239-242. doi:
+10.5114/reum.2016.63664. Epub 2016 Nov 28. PMID: 27994268; PMCID: PMC5149571.
+
+293: Marchesini R, Bono A, Tomatis S, Bartoli C, Colombo A, Lualdi M, Carrara M.
+In vivo evaluation of melanoma thickness by multispectral imaging and an
+artificial neural network. A retrospective study on 250 cases of cutaneous
+melanoma. Tumori. 2007 Mar-Apr;93(2):170-7. doi: 10.1177/030089160709300210.
+PMID: 17557564.
+
+294: Armato V, Susi ME, Picasso R, Macciò M, Pistoia F, Zaottini F, Martinoli C,
+Ferrero G, Bignotti B, Tagliafico AS. Radiomics Applied to the Diagnosis of
+Peripheral Nerve Disorders: A Systematic Review and Meta-Analysis of the
+Existing Literature. J Clin Med. 2026 Apr 24;15(9):3262. doi:
+10.3390/jcm15093262. PMID: 42122994; PMCID: PMC13163437.
+
+295: Alliance for Maternal and Newborn Health Improvement (AMANHI) Gestational
+Age Study Group; Alliance for Maternal and Newborn Health Improvement (AMANHI)
+GA Study Group. Simplified models to assess newborn gestational age in low-
+middle income countries: findings from a multicountry, prospective cohort study.
+BMJ Glob Health. 2021 Sep;6(9):e005688. doi: 10.1136/bmjgh-2021-005688. PMID:
+34518201; PMCID: PMC8438948.
+
+296: Guo Y, Hu Y, Qiao M, Wang Y, Yu J, Li J, Chang C. Radiomics Analysis on
+Ultrasound for Prediction of Biologic Behavior in Breast Invasive Ductal
+Carcinoma. Clin Breast Cancer. 2018 Jun;18(3):e335-e344. doi:
+10.1016/j.clbc.2017.08.002. Epub 2017 Aug 18. PMID: 28890183.
+
+297: Saleem A, Philteos J, Lajud S, Jethwa A, Thomas C, Yao CMLK, Goldstein DP,
+Higgins KP. Smartphone Thermal Imaging as an Adjunct to Identify Free Flap
+Perforators and Assisting Flap Design: A Pilot Study. Laryngoscope Investig
+Otolaryngol. 2025 Jan 21;10(1):e70081. doi: 10.1002/lio2.70081. PMID: 39840026;
+PMCID: PMC11748207.
+
+298: Yedekci Y, Arimura H, Jin Y, Yilmaz MT, Kodama T, Ozyigit G, Yazici G. Non-
+invasive prediction of the secondary enucleation risk in uveal melanoma based on
+pretreatment CT and MRI prior to stereotactic radiotherapy. Strahlenther Onkol.
+2026 May;202(5):476-484. doi: 10.1007/s00066-025-02449-1. Epub 2025 Aug 8. PMID:
+40781366.
+
+299: Liu Y, Wang Y, Wang Y, Xie Y, Cui Y, Feng S, Yao M, Qiu B, Shen W, Chen D,
+Du G, Chen X, Liu Z, Li Z, Yang X, Liang C, Wu L. Early prediction of treatment
+response to neoadjuvant chemotherapy based on longitudinal ultrasound images of
+HER2-positive breast cancer patients by Siamese multi-task network: A
+multicentre, retrospective cohort study. EClinicalMedicine. 2022 Jul
+30;52:101562. doi: 10.1016/j.eclinm.2022.101562. PMID: 35928032; PMCID:
+PMC9343415.
+
+300: Hoffmann K, Jung J, el Gammal S, Altmeyer P. Malignant melanoma in 20-MHz B
+scan sonography. Dermatology. 1992;185(1):49-55. doi: 10.1159/000247403. Erratum
+in: Dermatology 1992;185(2):160. PMID: 1638071.
+
+301: Koopaei S, Fathi Kazerooni A, Ghafoori M, Alviri M, Pashaei F, Saligheh Rad
+H. Quantification of Multi-Parametric Magnetic Resonance Imaging Based on
+Radiomics Analysis for Differentiation of Benign and Malignant Lesions of
+Prostate. J Biomed Phys Eng. 2023 Jun 1;13(3):251-260. doi:
+10.31661/jbpe.v0i0.2008-1158. PMID: 37312887; PMCID: PMC10258207.
+
+302: Wu L, Zhao Y, Lin P, Qin H, Liu Y, Wan D, Li X, He Y, Yang H. Preoperative
+ultrasound radiomics analysis for expression of multiple molecular biomarkers in
+mass type of breast ductal carcinoma in situ. BMC Med Imaging. 2021 May
+17;21(1):84. doi: 10.1186/s12880-021-00610-7. PMID: 34001017; PMCID: PMC8130392.
+
+303: Hoffmann K, Auer T, Stücker M, Dirschka T, el-Gammal S, Altmeyer P.
+Evaluation of the efficacy of H1 blockers by noninvasive measurement techniques.
+Dermatology. 1994;189(2):146-51. doi: 10.1159/000246819. PMID: 8075442.
+
+304: Liu H, Xia H, Yin X, Qin A, Zhang W, Feng S, Jin J. Study on the
+Differentiation of Infiltrating Breast Cancer Molecular Subtypes Based on
+Ultrasound Radiomics. Clin Breast Cancer. 2025 Jun;25(4):e450-e460. doi:
+10.1016/j.clbc.2025.01.005. Epub 2025 Jan 16. PMID: 40044534.
+
+305: Lu S, Wei Q, Zhuang J, Su X, Zhang Z, Liang Y, Hu J. Global Research Trends
+and Thematic Evolution in Injectable Aesthetic Medicine: A 25-year Bibliometric
+Analysis (2000-2025). Plast Reconstr Surg Glob Open. 2026 Jun 19;14(6):e7814.
+doi: 10.1097/GOX.0000000000007814. PMID: 42325485; PMCID: PMC13282087.
+
+306: Xu M, Liu Y, Zeng S, Li F. Development of an Ultrasound-Based Radiomics
+Nomogram for Preoperative Prediction of HER-2 Status in Invasive Breast Cancer.
+Acad Radiol. 2025 Jun;32(6):3160-3169. doi: 10.1016/j.acra.2024.12.059. Epub
+2025 Jan 31. PMID: 39893143.
+
+307: Subbhuraam VS, Ng EY, Kaw G, Acharya U R, Chong BK. Evaluation of the
+efficiency of biofield diagnostic system in breast cancer detection using
+clinical study results and classifiers. J Med Syst. 2012 Feb;36(1):15-24. doi:
+10.1007/s10916-010-9441-z. Epub 2010 Feb 23. PMID: 20703753.
+
+308: Sekins KM, Barnes SR, Fan L, Hopple JD, Hsu SJ, Kook J, Lee CY, Maleke C,
+Ramachandran AR, Zeng XJ, Moreau-Gobard R, Ahiekpor-Dravi A, Funka-Lea G,
+Mitchell SB, Dunmire B, Kucewicz JC, Eaton J, Wong K, Keneman S, Crum LA. Deep
+bleeder acoustic coagulation (DBAC)-Part I: development and in vitro testing of
+a research prototype cuff system. J Ther Ultrasound. 2015 Sep 18;3:16. doi:
+10.1186/s40349-015-0037-4. PMID: 26388994; PMCID: PMC4575471.
+
+309: Zeng J, Wei L, Chen H, Liang Y, Huang F, Qin T, Gao Y, Liao X. Habitat
+model based on CEUS for noninvasive prediction of EGFR mutation status in
+peripheral NSCLC. BMC Cancer. 2026 Jun 26. doi: 10.1186/s12885-026-16416-1. Epub
+ahead of print. PMID: 42351011.
+
+310: Dziurman G, Radzikowska N, Drzał A, Murzyn A, Świerzewski P, Szczygieł M,
+Romanowska-Dixon B, Krzykawska-Serda M, Elas M. Three-dimensional oxygen maps of
+tumors in real time - Analysis in the context of active tumor vasculature.
+Comput Methods Programs Biomed. 2026 Aug 1;282:109396. doi:
+10.1016/j.cmpb.2026.109396. Epub 2026 Apr 23. PMID: 42085882.
+
+311: Onan B, Onan IS, Polat B. Surgical resection of solitary metastasis of
+malignant melanoma to the right atrium. Tex Heart Inst J. 2010;37(5):598-601.
+PMID: 20978580; PMCID: PMC2953215.
+
+312: Ohlerth S, Laluhová D, Buchholz J, Roos M, Walt H, Kaser-Hotz B. Changes in
+vascularity and blood volume as a result of photodynamic therapy can be assessed
+with power Doppler ultrasonography. Lasers Surg Med. 2006 Mar;38(3):229-34. doi:
+10.1002/lsm.20282. PMID: 16392148.
+
+313: Ahmadi SA, Milletari F, Navab N, Schuberth M, Plate A, Bötzel K. 3D
+transcranial ultrasound as a novel intra-operative imaging technique for DBS
+surgery: a feasibility study. Int J Comput Assist Radiol Surg. 2015
+Jun;10(6):891-900. doi: 10.1007/s11548-015-1191-4. Epub 2015 Apr 11. PMID:
+25861056.
+
+314: Smalls LK, Lee CY, Whitestone J, Kitzmiller WJ, Wickett RR, Visscher MO.
+Quantitative model of cellulite: three-dimensional skin surface topography,
+biophysical characterization, and relationship to human perception. J Cosmet
+Sci. 2005 Mar-Apr;56(2):105-20. PMID: 15868063.
+
+315: Militello C, Rundo L, Vicari F, Agnello L, Borasi G, Vitabile S, Russo G. A
+Computational Study on Temperature Variations in MRgFUS Treatments Using PRF
+Thermometry Techniques and Optical Probes. J Imaging. 2021 Mar 25;7(4):63. doi:
+10.3390/jimaging7040063. PMID: 34460513; PMCID: PMC8321332.
+
+316: Stiller MJ, Gropper CA, Shupack JL, Lizzi F, Driller J, Rorke M. Diagnostic
+ultrasound in dermatology: current uses and future potential. Cutis. 1994
+Jan;53(1):44-8. PMID: 8119078.
+
+317: Tang M, Zhao C, Fang S. The Predictive Value of <sup>18</sup>F-FDG PET/CT
+Radiomics in EGFR Gene Mutation of Lung Adenocarcinoma. Curr Med Imaging.
+2026;22:e15734056428204. doi: 10.2174/0115734056428204251128060448. PMID:
+41572744; PMCID: PMC13312375.
+
+318: Sree SV, Ng EY, Acharya UR. Data mining approach to evaluating the use of
+skin surface electropotentials for breast cancer detection. Technol Cancer Res
+Treat. 2010 Feb;9(1):95-106. doi: 10.1177/153303461000900111. PMID: 20082535.
+
+319: Tang J, Yang JC, Zhang Y, Liu X, Zhang L, Wang Z, Li J, Luo Y, Xu J, Shi H.
+Does benign prostatic hyperplasia originate from the peripheral zone of the
+prostate? A preliminary study. BJU Int. 2007 Nov;100(5):1091-6. doi:
+10.1111/j.1464-410X.2007.07081.x. PMID: 17922787.
+
+320: Gužiková L, Hučková N, Caprnda M, Bendžala M, Babál P, Mrázová H. Malígnym
+melanómom imitovaný akútny koronárny syndróm alebo reálny akútny koronárny
+syndróm? [Acute coronary syndrome imitated by malignant melanoma or real acute
+coronary syndrome?]. Vnitr Lek. 2013 May;59(5):407-11. Slovak. PMID: 23767457.
+
+321: Fuller DG, Snyder WB, Hutton WL, Vaiser A. Ultrasonographic features of
+choroidal malignant melanomas. Arch Ophthalmol. 1979 Aug;97(8):1465-72. doi:
+10.1001/archopht.1979.01020020127008. PMID: 464871.
+
+322: Ferré PJ, Concordet D, Laroute V, Chanoit GP, Ferré JP, Manesse M, Lefebvre
+HP. Comparison of ultrasonography and pharmacokinetic analysis of creatine
+kinase release for quantitative assessment of postinjection muscle damage in
+sheep. Am J Vet Res. 2001 Nov;62(11):1698-705. doi: 10.2460/ajvr.2001.62.1698.
+PMID: 11703010.
+
+323: Du LW, Zha HL, Pan JZ, Du Y, Liu W, Nie CL, Liu XP, Zong M, Zhang B. Early
+Prediction Of Treatment Response To Neoadjuvant Chemotherapy Based On Pre-
+treatment Ultrasound Radiomics of HER2-positive Breast Cancer Patients by
+Radiomics-based Model: A Dual-center Retrospective Study. Acad Radiol. 2026 Aug
+18:S1076-6332(26)00571-4. doi: 10.1016/j.acra.2026.07.062. Epub ahead of print.
+PMID: 42613278.
+
+324: Carraro U. Thirty years of translational research in Mobility Medicine:
+Collection of abstracts of the 2020 Padua Muscle Days. Eur J Transl Myol. 2020
+Apr 1;30(1):8826. doi: 10.4081/ejtm.2019.8826. PMID: 32499887; PMCID:
+PMC7254447.

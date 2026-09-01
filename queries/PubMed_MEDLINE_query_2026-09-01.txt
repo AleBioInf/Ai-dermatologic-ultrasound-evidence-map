@@ -1,0 +1,74 @@
+Database: PubMed/MEDLINE
+Search date: 1 September 2026
+Filters: none (all years, all languages, all document types at search stage)
+
+(
+    dermatolog*[tiab]
+    OR skin[tiab]
+    OR cutaneous[tiab]
+    OR dermal[tiab]
+    OR epiderm*[tiab]
+    OR melanocytic[tiab]
+    OR melanoma[tiab]
+    OR melanomas[tiab]
+    OR nevus[tiab]
+    OR nevi[tiab]
+    OR naevus[tiab]
+    OR naevi[tiab]
+    OR "skin tumor*"[tiab]
+    OR "skin tumour*"[tiab]
+    OR "skin lesion*"[tiab]
+    OR psoriasis[tiab]
+    OR "atopic dermatitis"[tiab]
+    OR "actinic keratosis"[tiab]
+    OR mastocytoma[tiab]
+    OR hidradenitis[tiab]
+    OR "dermal filler*"[tiab]
+    OR "cosmetic filler*"[tiab]
+    OR "skin aging"[tiab]
+    OR "skin ageing"[tiab]
+)
+AND
+(
+    ultrasound*[tiab]
+    OR ultrasonograph*[tiab]
+    OR sonograph*[tiab]
+    OR "high-frequency ultrasound"[tiab]
+    OR "high frequency ultrasound"[tiab]
+    OR HFUS[tiab]
+    OR "ultra-high-frequency ultrasound"[tiab]
+    OR "ultra high frequency ultrasound"[tiab]
+    OR UHFUS[tiab]
+    OR "high-resolution ultrasound"[tiab]
+    OR "high resolution ultrasound"[tiab]
+    OR "color Doppler"[tiab]
+    OR "colour Doppler"[tiab]
+)
+AND
+(
+    "artificial intelligence"[tiab]
+    OR "machine learning"[tiab]
+    OR "deep learning"[tiab]
+    OR "neural network*"[tiab]
+    OR "convolutional neural network*"[tiab]
+    OR CNN[tiab]
+    OR radiomic*[tiab]
+    OR "support vector machine*"[tiab]
+    OR SVM[tiab]
+    OR "random forest*"[tiab]
+    OR "computer-aided"[tiab]
+    OR "computer assisted"[tiab]
+    OR "automated classification"[tiab]
+    OR "automated segmentation"[tiab]
+    OR "automatic classification"[tiab]
+    OR "automatic segmentation"[tiab]
+)
+NOT
+(
+    breast[ti]
+    OR mammary[ti]
+    OR ophthalm*[ti]
+    OR ocular[ti]
+    OR uveal[ti]
+    OR choroid*[ti]
+)

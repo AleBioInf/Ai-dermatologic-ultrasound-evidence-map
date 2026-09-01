@@ -1,0 +1,4 @@
+Action,Study,Year,Outcome,Reason
+Backward citation chasing,Kia et al. — Early diagnosis of skin cancer by ultrasound frequency analysis,2019,Added,Eligible full journal AI+ultrasound study missed by keyword query
+Dataset-forward citation chasing,Ayyildiz — Machine Learning–Based Ultrasound Radiomics for Differentiating Benign and Malignant Skin Lesions,2026,Added,Eligible ML reanalysis of public Laverde-Saad dataset
+Screening audit correction,Zhao et al. — Label-guided graph learning network via two-stage cross-modal fusion for multi-label skin disease diagnosis,2025,Added,Clinical + skin-ultrasound multimodal ML study; initial automated screen was too restrictive

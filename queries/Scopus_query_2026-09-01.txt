@@ -1,0 +1,75 @@
+Database: Scopus
+Search date: 1 September 2026
+Filters: none (all years, no language/document/subject filters at search stage)
+
+TITLE-ABS-KEY(
+    (
+        dermatolog*
+        OR skin
+        OR cutaneous
+        OR dermal
+        OR epiderm*
+        OR melanocytic
+        OR melanoma
+        OR melanomas
+        OR nevus
+        OR nevi
+        OR naevus
+        OR naevi
+        OR "skin tumor*"
+        OR "skin tumour*"
+        OR "skin lesion*"
+        OR psoriasis
+        OR "atopic dermatitis"
+        OR "actinic keratosis"
+        OR mastocytoma
+        OR hidradenitis
+        OR "dermal filler*"
+        OR "cosmetic filler*"
+        OR "skin aging"
+        OR "skin ageing"
+    )
+    AND
+    (
+        ultrasound*
+        OR ultrasonograph*
+        OR sonograph*
+        OR "high-frequency ultrasound"
+        OR "high frequency ultrasound"
+        OR HFUS
+        OR "ultra-high-frequency ultrasound"
+        OR "ultra high frequency ultrasound"
+        OR UHFUS
+        OR "high-resolution ultrasound"
+        OR "high resolution ultrasound"
+        OR "color Doppler"
+        OR "colour Doppler"
+    )
+    AND
+    (
+        "artificial intelligence"
+        OR "machine learning"
+        OR "deep learning"
+        OR "neural network*"
+        OR "convolutional neural network*"
+        OR CNN
+        OR radiomic*
+        OR "support vector machine*"
+        OR SVM
+        OR "random forest*"
+        OR "computer-aided"
+        OR "computer assisted"
+        OR "automated classification"
+        OR "automated segmentation"
+        OR "automatic classification"
+        OR "automatic segmentation"
+    )
+)
+AND NOT TITLE(
+    breast
+    OR mammary
+    OR ophthalm*
+    OR ocular
+    OR uveal
+    OR choroid*
+)
